@@ -1,0 +1,9652 @@
+[
+	{
+		"Transcribe": [
+			{
+				"Text": "M",
+				"TimeStamp": 1739390108521
+			},
+			{
+				"Text": "My",
+				"TimeStamp": 1739390108838
+			},
+			{
+				"Text": "My ",
+				"TimeStamp": 1739390109055
+			},
+			{
+				"Text": "My w",
+				"TimeStamp": 1739390109259
+			},
+			{
+				"Text": "My wa",
+				"TimeStamp": 1739390109459
+			},
+			{
+				"Text": "My wat",
+				"TimeStamp": 1739390109753
+			},
+			{
+				"Text": "My watc",
+				"TimeStamp": 1739390109976
+			},
+			{
+				"Text": "My watch",
+				"TimeStamp": 1739390110076
+			},
+			{
+				"Text": "My watch ",
+				"TimeStamp": 1739390110218
+			},
+			{
+				"Text": "My watch d",
+				"TimeStamp": 1739390110425
+			},
+			{
+				"Text": "My watch ",
+				"TimeStamp": 1739390110976
+			},
+			{
+				"Text": "My watch f",
+				"TimeStamp": 1739390111219
+			},
+			{
+				"Text": "My watch fe",
+				"TimeStamp": 1739390111392
+			},
+			{
+				"Text": "My watch fel",
+				"TimeStamp": 1739390111534
+			},
+			{
+				"Text": "My watch fell",
+				"TimeStamp": 1739390112309
+			},
+			{
+				"Text": "My watch fell ",
+				"TimeStamp": 1739390112509
+			},
+			{
+				"Text": "My watch fell i",
+				"TimeStamp": 1739390112645
+			},
+			{
+				"Text": "My watch fell in",
+				"TimeStamp": 1739390112826
+			},
+			{
+				"Text": "My watch fell in ",
+				"TimeStamp": 1739390112995
+			},
+			{
+				"Text": "My watch fell in t",
+				"TimeStamp": 1739390113104
+			},
+			{
+				"Text": "My watch fell in th",
+				"TimeStamp": 1739390113198
+			},
+			{
+				"Text": "My watch fell in the",
+				"TimeStamp": 1739390113301
+			},
+			{
+				"Text": "My watch fell in the ",
+				"TimeStamp": 1739390113362
+			},
+			{
+				"Text": "My watch fell in the w",
+				"TimeStamp": 1739390113521
+			},
+			{
+				"Text": "My watch fell in the wa",
+				"TimeStamp": 1739390113704
+			},
+			{
+				"Text": "My watch fell in the wat",
+				"TimeStamp": 1739390114011
+			},
+			{
+				"Text": "My watch fell in the wate",
+				"TimeStamp": 1739390114134
+			},
+			{
+				"Text": "My watch fell in the water",
+				"TimeStamp": 1739390114236
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"delete",
+				9,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			]
+		],
+		"Trial": 0,
+		"Present": "my watch fell in the water",
+		"IF": 1,
+		"INF": 1,
+		"C": 25,
+		"CER": "0.037",
+		"UER": "0.037",
+		"TER": "0.074",
+		"Transcribed": "My watch fell in the water",
+		"Time": 5715
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "P",
+				"TimeStamp": 1739390117761
+			},
+			{
+				"Text": "Pr",
+				"TimeStamp": 1739390117916
+			},
+			{
+				"Text": "Pre",
+				"TimeStamp": 1739390117999
+			},
+			{
+				"Text": "Prev",
+				"TimeStamp": 1739390118258
+			},
+			{
+				"Text": "Preva",
+				"TimeStamp": 1739390118517
+			},
+			{
+				"Text": "Prevai",
+				"TimeStamp": 1739390118600
+			},
+			{
+				"Text": "Prevail",
+				"TimeStamp": 1739390118761
+			},
+			{
+				"Text": "Prevaili",
+				"TimeStamp": 1739390118913
+			},
+			{
+				"Text": "Prevailin",
+				"TimeStamp": 1739390119102
+			},
+			{
+				"Text": "Prevailing",
+				"TimeStamp": 1739390119231
+			},
+			{
+				"Text": "Prevailing ",
+				"TimeStamp": 1739390119374
+			},
+			{
+				"Text": "Prevailing w",
+				"TimeStamp": 1739390119564
+			},
+			{
+				"Text": "Prevailing wi",
+				"TimeStamp": 1739390119653
+			},
+			{
+				"Text": "Prevailing win",
+				"TimeStamp": 1739390119795
+			},
+			{
+				"Text": "Prevailing wind",
+				"TimeStamp": 1739390119954
+			},
+			{
+				"Text": "Prevailing wind ",
+				"TimeStamp": 1739390120054
+			},
+			{
+				"Text": "Prevailing wind f",
+				"TimeStamp": 1739390120436
+			},
+			{
+				"Text": "Prevailing wind fr",
+				"TimeStamp": 1739390120597
+			},
+			{
+				"Text": "Prevailing wind fro",
+				"TimeStamp": 1739390120702
+			},
+			{
+				"Text": "Prevailing wind from",
+				"TimeStamp": 1739390120852
+			},
+			{
+				"Text": "Prevailing wind from ",
+				"TimeStamp": 1739390121019
+			},
+			{
+				"Text": "Prevailing wind from t",
+				"TimeStamp": 1739390121085
+			},
+			{
+				"Text": "Prevailing wind from th",
+				"TimeStamp": 1739390121196
+			},
+			{
+				"Text": "Prevailing wind from the",
+				"TimeStamp": 1739390121314
+			},
+			{
+				"Text": "Prevailing wind from the ",
+				"TimeStamp": 1739390121469
+			},
+			{
+				"Text": "Prevailing wind from the e",
+				"TimeStamp": 1739390121735
+			},
+			{
+				"Text": "Prevailing wind from the ea",
+				"TimeStamp": 1739390121934
+			},
+			{
+				"Text": "Prevailing wind from the eas",
+				"TimeStamp": 1739390122115
+			},
+			{
+				"Text": "Prevailing wind from the east",
+				"TimeStamp": 1739390122578
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			]
+		],
+		"Trial": 1,
+		"Present": "prevailing wind from the east",
+		"IF": 0,
+		"INF": 1,
+		"C": 28,
+		"CER": "0.000",
+		"UER": "0.034",
+		"TER": "0.034",
+		"Transcribed": "Prevailing wind from the east",
+		"Time": 4817
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "N",
+				"TimeStamp": 1739390124214
+			},
+			{
+				"Text": "Ne",
+				"TimeStamp": 1739390124329
+			},
+			{
+				"Text": "Nev",
+				"TimeStamp": 1739390124567
+			},
+			{
+				"Text": "Neve",
+				"TimeStamp": 1739390124669
+			},
+			{
+				"Text": "Never",
+				"TimeStamp": 1739390124873
+			},
+			{
+				"Text": "Never ",
+				"TimeStamp": 1739390125008
+			},
+			{
+				"Text": "Never t",
+				"TimeStamp": 1739390125121
+			},
+			{
+				"Text": "Never to",
+				"TimeStamp": 1739390125239
+			},
+			{
+				"Text": "Never too",
+				"TimeStamp": 1739390125406
+			},
+			{
+				"Text": "Never too ",
+				"TimeStamp": 1739390125629
+			},
+			{
+				"Text": "Never too r",
+				"TimeStamp": 1739390125948
+			},
+			{
+				"Text": "Never too ri",
+				"TimeStamp": 1739390126044
+			},
+			{
+				"Text": "Never too ric",
+				"TimeStamp": 1739390126338
+			},
+			{
+				"Text": "Never too rich",
+				"TimeStamp": 1739390126462
+			},
+			{
+				"Text": "Never too rich ",
+				"TimeStamp": 1739390126550
+			},
+			{
+				"Text": "Never too rich a",
+				"TimeStamp": 1739390127215
+			},
+			{
+				"Text": "Never too rich an",
+				"TimeStamp": 1739390127335
+			},
+			{
+				"Text": "Never too rich and",
+				"TimeStamp": 1739390127637
+			},
+			{
+				"Text": "Never too rich and ",
+				"TimeStamp": 1739390127771
+			},
+			{
+				"Text": "Never too rich and n",
+				"TimeStamp": 1739390128338
+			},
+			{
+				"Text": "Never too rich and ne",
+				"TimeStamp": 1739390128458
+			},
+			{
+				"Text": "Never too rich and nev",
+				"TimeStamp": 1739390128677
+			},
+			{
+				"Text": "Never too rich and neve",
+				"TimeStamp": 1739390128797
+			},
+			{
+				"Text": "Never too rich and never",
+				"TimeStamp": 1739390128999
+			},
+			{
+				"Text": "Never too rich and never ",
+				"TimeStamp": 1739390129188
+			},
+			{
+				"Text": "Never too rich and never t",
+				"TimeStamp": 1739390129550
+			},
+			{
+				"Text": "Never too rich and never to",
+				"TimeStamp": 1739390129671
+			},
+			{
+				"Text": "Never too rich and never too",
+				"TimeStamp": 1739390129791
+			},
+			{
+				"Text": "Never too rich and never too ",
+				"TimeStamp": 1739390129967
+			},
+			{
+				"Text": "Never too rich and never too t",
+				"TimeStamp": 1739390130094
+			},
+			{
+				"Text": "Never too rich and never too th",
+				"TimeStamp": 1739390130201
+			},
+			{
+				"Text": "Never too rich and never too thi",
+				"TimeStamp": 1739390130341
+			},
+			{
+				"Text": "Never too rich and never too thin",
+				"TimeStamp": 1739390130535
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				31,
+				1
+			],
+			[
+				"insert",
+				32,
+				1
+			]
+		],
+		"Trial": 2,
+		"Present": "never too rich and never too thin",
+		"IF": 0,
+		"INF": 1,
+		"C": 32,
+		"CER": "0.000",
+		"UER": "0.030",
+		"TER": "0.030",
+		"Transcribed": "Never too rich and never too thin",
+		"Time": 6321
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "B",
+				"TimeStamp": 1739390132367
+			},
+			{
+				"Text": "Br",
+				"TimeStamp": 1739390132507
+			},
+			{
+				"Text": "Bre",
+				"TimeStamp": 1739390132645
+			},
+			{
+				"Text": "Brea",
+				"TimeStamp": 1739390132866
+			},
+			{
+				"Text": "Breat",
+				"TimeStamp": 1739390133098
+			},
+			{
+				"Text": "Breath",
+				"TimeStamp": 1739390133203
+			},
+			{
+				"Text": "Breathi",
+				"TimeStamp": 1739390133384
+			},
+			{
+				"Text": "Breathin",
+				"TimeStamp": 1739390133542
+			},
+			{
+				"Text": "Breathing",
+				"TimeStamp": 1739390133642
+			},
+			{
+				"Text": "Breathing ",
+				"TimeStamp": 1739390133771
+			},
+			{
+				"Text": "Breathing i",
+				"TimeStamp": 1739390133971
+			},
+			{
+				"Text": "Breathing is",
+				"TimeStamp": 1739390134169
+			},
+			{
+				"Text": "Breathing is ",
+				"TimeStamp": 1739390134265
+			},
+			{
+				"Text": "Breathing is d",
+				"TimeStamp": 1739390134452
+			},
+			{
+				"Text": "Breathing is di",
+				"TimeStamp": 1739390134572
+			},
+			{
+				"Text": "Breathing is dif",
+				"TimeStamp": 1739390134886
+			},
+			{
+				"Text": "Breathing is diff",
+				"TimeStamp": 1739390135043
+			},
+			{
+				"Text": "Breathing is diffi",
+				"TimeStamp": 1739390135305
+			},
+			{
+				"Text": "Breathing is diffic",
+				"TimeStamp": 1739390135660
+			},
+			{
+				"Text": "Breathing is difficu",
+				"TimeStamp": 1739390135885
+			},
+			{
+				"Text": "Breathing is difficul",
+				"TimeStamp": 1739390136135
+			},
+			{
+				"Text": "Breathing is difficult",
+				"TimeStamp": 1739390136377
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			]
+		],
+		"Trial": 3,
+		"Present": "breathing is difficult",
+		"IF": 0,
+		"INF": 1,
+		"C": 21,
+		"CER": "0.000",
+		"UER": "0.045",
+		"TER": "0.045",
+		"Transcribed": "Breathing is difficult",
+		"Time": 4010
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "I",
+				"TimeStamp": 1739390138088
+			},
+			{
+				"Text": "I ",
+				"TimeStamp": 1739390138235
+			},
+			{
+				"Text": "I c",
+				"TimeStamp": 1739390138440
+			},
+			{
+				"Text": "I ca",
+				"TimeStamp": 1739390138559
+			},
+			{
+				"Text": "I can",
+				"TimeStamp": 1739390138692
+			},
+			{
+				"Text": "I can ",
+				"TimeStamp": 1739390138833
+			},
+			{
+				"Text": "I can s",
+				"TimeStamp": 1739390138943
+			},
+			{
+				"Text": "I can se",
+				"TimeStamp": 1739390139128
+			},
+			{
+				"Text": "I can see",
+				"TimeStamp": 1739390139295
+			},
+			{
+				"Text": "I can see ",
+				"TimeStamp": 1739390139431
+			},
+			{
+				"Text": "I can see t",
+				"TimeStamp": 1739390139578
+			},
+			{
+				"Text": "I can see th",
+				"TimeStamp": 1739390139711
+			},
+			{
+				"Text": "I can see the",
+				"TimeStamp": 1739390139819
+			},
+			{
+				"Text": "I can see the ",
+				"TimeStamp": 1739390139953
+			},
+			{
+				"Text": "I can see the r",
+				"TimeStamp": 1739390140297
+			},
+			{
+				"Text": "I can see the ri",
+				"TimeStamp": 1739390140388
+			},
+			{
+				"Text": "I can see the rin",
+				"TimeStamp": 1739390140555
+			},
+			{
+				"Text": "I can see the ring",
+				"TimeStamp": 1739390140764
+			},
+			{
+				"Text": "I can see the rings",
+				"TimeStamp": 1739390140921
+			},
+			{
+				"Text": "I can see the rings ",
+				"TimeStamp": 1739390141095
+			},
+			{
+				"Text": "I can see the rings S",
+				"TimeStamp": 1739390142029
+			},
+			{
+				"Text": "I can see the rings Sa",
+				"TimeStamp": 1739390142226
+			},
+			{
+				"Text": "I can see the rings Sat",
+				"TimeStamp": 1739390142529
+			},
+			{
+				"Text": "I can see the rings Satu",
+				"TimeStamp": 1739390142667
+			},
+			{
+				"Text": "I can see the rings Satur",
+				"TimeStamp": 1739390142883
+			},
+			{
+				"Text": "I can see the rings Saturn",
+				"TimeStamp": 1739390142970
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			]
+		],
+		"Trial": 4,
+		"Present": "I can see the rings on Saturn",
+		"IF": 0,
+		"INF": 3,
+		"C": 26,
+		"CER": "0.000",
+		"UER": "0.103",
+		"TER": "0.103",
+		"Transcribed": "I can see the rings Saturn",
+		"Time": 4882
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "P",
+				"TimeStamp": 1739390145218
+			},
+			{
+				"Text": "Ph",
+				"TimeStamp": 1739390147434
+			},
+			{
+				"Text": "P",
+				"TimeStamp": 1739390149014
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390149143
+			},
+			{
+				"Text": "p",
+				"TimeStamp": 1739390150607
+			},
+			{
+				"Text": "ph",
+				"TimeStamp": 1739390151038
+			},
+			{
+				"Text": "phy",
+				"TimeStamp": 1739390151225
+			},
+			{
+				"Text": "phys",
+				"TimeStamp": 1739390152026
+			},
+			{
+				"Text": "physi",
+				"TimeStamp": 1739390152138
+			},
+			{
+				"Text": "physic",
+				"TimeStamp": 1739390152250
+			},
+			{
+				"Text": "physics",
+				"TimeStamp": 1739390152478
+			},
+			{
+				"Text": "physics ",
+				"TimeStamp": 1739390152615
+			},
+			{
+				"Text": "physics a",
+				"TimeStamp": 1739390152790
+			},
+			{
+				"Text": "physics an",
+				"TimeStamp": 1739390152915
+			},
+			{
+				"Text": "physics and",
+				"TimeStamp": 1739390153260
+			},
+			{
+				"Text": "physics and ",
+				"TimeStamp": 1739390153409
+			},
+			{
+				"Text": "physics and s",
+				"TimeStamp": 1739390153489
+			},
+			{
+				"Text": "physics and ",
+				"TimeStamp": 1739390153975
+			},
+			{
+				"Text": "physics and c",
+				"TimeStamp": 1739390154190
+			},
+			{
+				"Text": "physics and ch",
+				"TimeStamp": 1739390154374
+			},
+			{
+				"Text": "physics and che",
+				"TimeStamp": 1739390154498
+			},
+			{
+				"Text": "physics and chem",
+				"TimeStamp": 1739390155062
+			},
+			{
+				"Text": "physics and chemi",
+				"TimeStamp": 1739390155237
+			},
+			{
+				"Text": "physics and chemis",
+				"TimeStamp": 1739390155437
+			},
+			{
+				"Text": "physics and chemist",
+				"TimeStamp": 1739390155731
+			},
+			{
+				"Text": "physics and chemistr",
+				"TimeStamp": 1739390155920
+			},
+			{
+				"Text": "physics and chemistry",
+				"TimeStamp": 1739390156105
+			},
+			{
+				"Text": "physics and chemistry ",
+				"TimeStamp": 1739390156296
+			},
+			{
+				"Text": "physics and chemistry a",
+				"TimeStamp": 1739390156618
+			},
+			{
+				"Text": "physics and chemistry ar",
+				"TimeStamp": 1739390156846
+			},
+			{
+				"Text": "physics and chemistry are",
+				"TimeStamp": 1739390157012
+			},
+			{
+				"Text": "physics and chemistry are ",
+				"TimeStamp": 1739390157198
+			},
+			{
+				"Text": "physics and chemistry are a",
+				"TimeStamp": 1739390157318
+			},
+			{
+				"Text": "physics and chemistry are ",
+				"TimeStamp": 1739390158079
+			},
+			{
+				"Text": "physics and chemistry are h",
+				"TimeStamp": 1739390158430
+			},
+			{
+				"Text": "physics and chemistry are ha",
+				"TimeStamp": 1739390158537
+			},
+			{
+				"Text": "physics and chemistry are har",
+				"TimeStamp": 1739390158922
+			},
+			{
+				"Text": "physics and chemistry are hard",
+				"TimeStamp": 1739390159101
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"delete",
+				1,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"delete",
+				12,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"delete",
+				26,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 5,
+		"Present": "physics and chemistry are hard",
+		"IF": 4,
+		"INF": 0,
+		"C": 30,
+		"CER": "0.118",
+		"UER": "0.000",
+		"TER": "0.118",
+		"Transcribed": "physics and chemistry are hard",
+		"Time": 13883
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "M",
+				"TimeStamp": 1739390160996
+			},
+			{
+				"Text": "My",
+				"TimeStamp": 1739390161124
+			},
+			{
+				"Text": "My ",
+				"TimeStamp": 1739390161243
+			},
+			{
+				"Text": "My b",
+				"TimeStamp": 1739390161888
+			},
+			{
+				"Text": "My ba",
+				"TimeStamp": 1739390162016
+			},
+			{
+				"Text": "My ban",
+				"TimeStamp": 1739390162197
+			},
+			{
+				"Text": "My bank",
+				"TimeStamp": 1739390162820
+			},
+			{
+				"Text": "My bank ",
+				"TimeStamp": 1739390163075
+			},
+			{
+				"Text": "My bank a",
+				"TimeStamp": 1739390163551
+			},
+			{
+				"Text": "My bank ac",
+				"TimeStamp": 1739390163791
+			},
+			{
+				"Text": "My bank acc",
+				"TimeStamp": 1739390163956
+			},
+			{
+				"Text": "My bank acco",
+				"TimeStamp": 1739390164041
+			},
+			{
+				"Text": "My bank accou",
+				"TimeStamp": 1739390164235
+			},
+			{
+				"Text": "My bank accoun",
+				"TimeStamp": 1739390164397
+			},
+			{
+				"Text": "My bank account",
+				"TimeStamp": 1739390164606
+			},
+			{
+				"Text": "My bank account ",
+				"TimeStamp": 1739390164791
+			},
+			{
+				"Text": "My bank account i",
+				"TimeStamp": 1739390164947
+			},
+			{
+				"Text": "My bank account is",
+				"TimeStamp": 1739390165192
+			},
+			{
+				"Text": "My bank account is ",
+				"TimeStamp": 1739390165338
+			},
+			{
+				"Text": "My bank account is o",
+				"TimeStamp": 1739390165540
+			},
+			{
+				"Text": "My bank account is ov",
+				"TimeStamp": 1739390165672
+			},
+			{
+				"Text": "My bank account is ove",
+				"TimeStamp": 1739390165887
+			},
+			{
+				"Text": "My bank account is over",
+				"TimeStamp": 1739390166056
+			},
+			{
+				"Text": "My bank account is overd",
+				"TimeStamp": 1739390166249
+			},
+			{
+				"Text": "My bank account is overdr",
+				"TimeStamp": 1739390166407
+			},
+			{
+				"Text": "My bank account is overdrw",
+				"TimeStamp": 1739390167165
+			},
+			{
+				"Text": "My bank account is overdrwa",
+				"TimeStamp": 1739390167395
+			},
+			{
+				"Text": "My bank account is overdrw",
+				"TimeStamp": 1739390168103
+			},
+			{
+				"Text": "My bank account is overdr",
+				"TimeStamp": 1739390168210
+			},
+			{
+				"Text": "My bank account is overdra",
+				"TimeStamp": 1739390168450
+			},
+			{
+				"Text": "My bank account is overdraw",
+				"TimeStamp": 1739390169015
+			},
+			{
+				"Text": "My bank account is overdrawn",
+				"TimeStamp": 1739390169149
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"delete",
+				26,
+				1
+			],
+			[
+				"delete",
+				25,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			]
+		],
+		"Trial": 6,
+		"Present": "my bank account is overdrawn",
+		"IF": 2,
+		"INF": 1,
+		"C": 27,
+		"CER": "0.067",
+		"UER": "0.033",
+		"TER": "0.100",
+		"Transcribed": "My bank account is overdrawn",
+		"Time": 8153
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "E",
+				"TimeStamp": 1739390171062
+			},
+			{
+				"Text": "El",
+				"TimeStamp": 1739390171195
+			},
+			{
+				"Text": "Ele",
+				"TimeStamp": 1739390171288
+			},
+			{
+				"Text": "El",
+				"TimeStamp": 1739390172632
+			},
+			{
+				"Text": "E",
+				"TimeStamp": 1739390172778
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390173619
+			},
+			{
+				"Text": "e",
+				"TimeStamp": 1739390174606
+			},
+			{
+				"Text": "el",
+				"TimeStamp": 1739390174723
+			},
+			{
+				"Text": "ele",
+				"TimeStamp": 1739390174833
+			},
+			{
+				"Text": "elec",
+				"TimeStamp": 1739390175123
+			},
+			{
+				"Text": "elect",
+				"TimeStamp": 1739390175507
+			},
+			{
+				"Text": "electi",
+				"TimeStamp": 1739390175664
+			},
+			{
+				"Text": "electio",
+				"TimeStamp": 1739390175835
+			},
+			{
+				"Text": "election",
+				"TimeStamp": 1739390176066
+			},
+			{
+				"Text": "election ",
+				"TimeStamp": 1739390176282
+			},
+			{
+				"Text": "election b",
+				"TimeStamp": 1739390177643
+			},
+			{
+				"Text": "election br",
+				"TimeStamp": 1739390177799
+			},
+			{
+				"Text": "election bri",
+				"TimeStamp": 1739390177969
+			},
+			{
+				"Text": "election brin",
+				"TimeStamp": 1739390178091
+			},
+			{
+				"Text": "election bring",
+				"TimeStamp": 1739390178323
+			},
+			{
+				"Text": "élection bring",
+				"TimeStamp": 1739390178490
+			},
+			{
+				"Text": "élection bring ",
+				"TimeStamp": 1739390178522
+			},
+			{
+				"Text": "élection bring o",
+				"TimeStamp": 1739390178681
+			},
+			{
+				"Text": "élection bring ou",
+				"TimeStamp": 1739390178834
+			},
+			{
+				"Text": "élection bring out",
+				"TimeStamp": 1739390179019
+			},
+			{
+				"Text": "élection bring out ",
+				"TimeStamp": 1739390179162
+			},
+			{
+				"Text": "élection bring out t",
+				"TimeStamp": 1739390179259
+			},
+			{
+				"Text": "élection bring out th",
+				"TimeStamp": 1739390179351
+			},
+			{
+				"Text": "élection bring out the",
+				"TimeStamp": 1739390179569
+			},
+			{
+				"Text": "élection bring out the ",
+				"TimeStamp": 1739390179721
+			},
+			{
+				"Text": "élection bring out the b",
+				"TimeStamp": 1739390180062
+			},
+			{
+				"Text": "élection bring out the be",
+				"TimeStamp": 1739390180203
+			},
+			{
+				"Text": "élection bring out the bes",
+				"TimeStamp": 1739390180395
+			},
+			{
+				"Text": "élection bring out the best",
+				"TimeStamp": 1739390180537
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"delete",
+				2,
+				1
+			],
+			[
+				"delete",
+				1,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"replace",
+				0,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			]
+		],
+		"Trial": 7,
+		"Present": "elections bring out the best",
+		"IF": 4,
+		"INF": 2,
+		"C": 26,
+		"CER": "0.125",
+		"UER": "0.063",
+		"TER": "0.188",
+		"Transcribed": "élection bring out the best",
+		"Time": 9475
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "w",
+				"TimeStamp": 1739390182636
+			},
+			{
+				"Text": "we",
+				"TimeStamp": 1739390182835
+			},
+			{
+				"Text": "we ",
+				"TimeStamp": 1739390182993
+			},
+			{
+				"Text": "we a",
+				"TimeStamp": 1739390183331
+			},
+			{
+				"Text": "we ar",
+				"TimeStamp": 1739390183644
+			},
+			{
+				"Text": "we are",
+				"TimeStamp": 1739390183813
+			},
+			{
+				"Text": "we are ",
+				"TimeStamp": 1739390183997
+			},
+			{
+				"Text": "we are h",
+				"TimeStamp": 1739390184305
+			},
+			{
+				"Text": "we are ha",
+				"TimeStamp": 1739390184445
+			},
+			{
+				"Text": "we are hav",
+				"TimeStamp": 1739390184842
+			},
+			{
+				"Text": "we are havi",
+				"TimeStamp": 1739390184970
+			},
+			{
+				"Text": "we are havin",
+				"TimeStamp": 1739390185062
+			},
+			{
+				"Text": "we are having",
+				"TimeStamp": 1739390185272
+			},
+			{
+				"Text": "we are having ",
+				"TimeStamp": 1739390185443
+			},
+			{
+				"Text": "we are having s",
+				"TimeStamp": 1739390185966
+			},
+			{
+				"Text": "we are having sp",
+				"TimeStamp": 1739390186102
+			},
+			{
+				"Text": "we are having spa",
+				"TimeStamp": 1739390186267
+			},
+			{
+				"Text": "we are having spag",
+				"TimeStamp": 1739390186664
+			},
+			{
+				"Text": "we are having spaghetti",
+				"TimeStamp": 1739390188653
+			},
+			{
+				"Text": "we are having spaghetti ",
+				"TimeStamp": 1739390188702
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				5
+			],
+			[
+				"insert",
+				23,
+				1
+			]
+		],
+		"Trial": 8,
+		"Present": "we are having spaghetti",
+		"IF": 0,
+		"INF": 1,
+		"C": 23,
+		"CER": "0.000",
+		"UER": "0.042",
+		"TER": "0.042",
+		"Transcribed": "we are having spaghetti ",
+		"Time": 6066
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "T",
+				"TimeStamp": 1739390190746
+			},
+			{
+				"Text": "Ti",
+				"TimeStamp": 1739390190873
+			},
+			{
+				"Text": "Tim",
+				"TimeStamp": 1739390191024
+			},
+			{
+				"Text": "Time",
+				"TimeStamp": 1739390191063
+			},
+			{
+				"Text": "Tim",
+				"TimeStamp": 1739390195128
+			},
+			{
+				"Text": "Ti",
+				"TimeStamp": 1739390195260
+			},
+			{
+				"Text": "T",
+				"TimeStamp": 1739390195392
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390195527
+			},
+			{
+				"Text": "t",
+				"TimeStamp": 1739390196872
+			},
+			{
+				"Text": "ti",
+				"TimeStamp": 1739390197000
+			},
+			{
+				"Text": "tim",
+				"TimeStamp": 1739390197060
+			},
+			{
+				"Text": "timm",
+				"TimeStamp": 1739390197177
+			},
+			{
+				"Text": "tim",
+				"TimeStamp": 1739390197698
+			},
+			{
+				"Text": "time",
+				"TimeStamp": 1739390197943
+			},
+			{
+				"Text": "time ",
+				"TimeStamp": 1739390198172
+			},
+			{
+				"Text": "time t",
+				"TimeStamp": 1739390198516
+			},
+			{
+				"Text": "time to",
+				"TimeStamp": 1739390198670
+			},
+			{
+				"Text": "time to ",
+				"TimeStamp": 1739390198763
+			},
+			{
+				"Text": "time to g",
+				"TimeStamp": 1739390198861
+			},
+			{
+				"Text": "time to go",
+				"TimeStamp": 1739390199036
+			},
+			{
+				"Text": "time to go ",
+				"TimeStamp": 1739390199142
+			},
+			{
+				"Text": "time to go s",
+				"TimeStamp": 1739390199426
+			},
+			{
+				"Text": "time to go sh",
+				"TimeStamp": 1739390199622
+			},
+			{
+				"Text": "time to go sho",
+				"TimeStamp": 1739390199927
+			},
+			{
+				"Text": "time to go shop",
+				"TimeStamp": 1739390200087
+			},
+			{
+				"Text": "time to go shopp",
+				"TimeStamp": 1739390200217
+			},
+			{
+				"Text": "time to go shoppi",
+				"TimeStamp": 1739390200438
+			},
+			{
+				"Text": "time to go shoppin",
+				"TimeStamp": 1739390200516
+			},
+			{
+				"Text": "time to go shopping",
+				"TimeStamp": 1739390200636
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"delete",
+				3,
+				1
+			],
+			[
+				"delete",
+				2,
+				1
+			],
+			[
+				"delete",
+				1,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"delete",
+				3,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			]
+		],
+		"Trial": 9,
+		"Present": "time to go shopping",
+		"IF": 5,
+		"INF": 0,
+		"C": 19,
+		"CER": "0.208",
+		"UER": "0.000",
+		"TER": "0.208",
+		"Transcribed": "time to go shopping",
+		"Time": 9890
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "A",
+				"TimeStamp": 1739390202336
+			},
+			{
+				"Text": "A ",
+				"TimeStamp": 1739390202470
+			},
+			{
+				"Text": "A o",
+				"TimeStamp": 1739390202688
+			},
+			{
+				"Text": "A og",
+				"TimeStamp": 1739390202889
+			},
+			{
+				"Text": "A o",
+				"TimeStamp": 1739390203563
+			},
+			{
+				"Text": "A ",
+				"TimeStamp": 1739390203701
+			},
+			{
+				"Text": "A",
+				"TimeStamp": 1739390203838
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390203982
+			},
+			{
+				"Text": "a",
+				"TimeStamp": 1739390204923
+			},
+			{
+				"Text": "a ",
+				"TimeStamp": 1739390205241
+			},
+			{
+				"Text": "a p",
+				"TimeStamp": 1739390205756
+			},
+			{
+				"Text": "a pr",
+				"TimeStamp": 1739390206075
+			},
+			{
+				"Text": "a pro",
+				"TimeStamp": 1739390206854
+			},
+			{
+				"Text": "a prob",
+				"TimeStamp": 1739390207039
+			},
+			{
+				"Text": "a probl",
+				"TimeStamp": 1739390207153
+			},
+			{
+				"Text": "a proble",
+				"TimeStamp": 1739390207348
+			},
+			{
+				"Text": "a problem",
+				"TimeStamp": 1739390207471
+			},
+			{
+				"Text": "a problem ",
+				"TimeStamp": 1739390207673
+			},
+			{
+				"Text": "a problem w",
+				"TimeStamp": 1739390207953
+			},
+			{
+				"Text": "a problem wi",
+				"TimeStamp": 1739390208043
+			},
+			{
+				"Text": "a problem wit",
+				"TimeStamp": 1739390208224
+			},
+			{
+				"Text": "a problem with",
+				"TimeStamp": 1739390208318
+			},
+			{
+				"Text": "a problem with ",
+				"TimeStamp": 1739390208507
+			},
+			{
+				"Text": "a problem with t",
+				"TimeStamp": 1739390208607
+			},
+			{
+				"Text": "a problem with th",
+				"TimeStamp": 1739390208732
+			},
+			{
+				"Text": "a problem with the",
+				"TimeStamp": 1739390208901
+			},
+			{
+				"Text": "a problem with the ",
+				"TimeStamp": 1739390209008
+			},
+			{
+				"Text": "a problem with the e",
+				"TimeStamp": 1739390209475
+			},
+			{
+				"Text": "a problem with the en",
+				"TimeStamp": 1739390209602
+			},
+			{
+				"Text": "a problem with the eng",
+				"TimeStamp": 1739390209752
+			},
+			{
+				"Text": "a problem with the engi",
+				"TimeStamp": 1739390209824
+			},
+			{
+				"Text": "a problem with the engin",
+				"TimeStamp": 1739390210035
+			},
+			{
+				"Text": "a problem with the engine",
+				"TimeStamp": 1739390210156
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"delete",
+				3,
+				1
+			],
+			[
+				"delete",
+				2,
+				1
+			],
+			[
+				"delete",
+				1,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			]
+		],
+		"Trial": 10,
+		"Present": "a problem with the engine",
+		"IF": 4,
+		"INF": 0,
+		"C": 25,
+		"CER": "0.138",
+		"UER": "0.000",
+		"TER": "0.138",
+		"Transcribed": "a problem with the engine",
+		"Time": 7820
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "e",
+				"TimeStamp": 1739390212185
+			},
+			{
+				"Text": "el",
+				"TimeStamp": 1739390212384
+			},
+			{
+				"Text": "ele",
+				"TimeStamp": 1739390212551
+			},
+			{
+				"Text": "elep",
+				"TimeStamp": 1739390212979
+			},
+			{
+				"Text": "eleph",
+				"TimeStamp": 1739390213209
+			},
+			{
+				"Text": "elepha",
+				"TimeStamp": 1739390213349
+			},
+			{
+				"Text": "elephan",
+				"TimeStamp": 1739390213466
+			},
+			{
+				"Text": "elephant",
+				"TimeStamp": 1739390213659
+			},
+			{
+				"Text": "elephant ",
+				"TimeStamp": 1739390213855
+			},
+			{
+				"Text": "elephant a",
+				"TimeStamp": 1739390214139
+			},
+			{
+				"Text": "elephant ar",
+				"TimeStamp": 1739390214394
+			},
+			{
+				"Text": "elephant are",
+				"TimeStamp": 1739390214861
+			},
+			{
+				"Text": "elephant are ",
+				"TimeStamp": 1739390215004
+			},
+			{
+				"Text": "elephant are a",
+				"TimeStamp": 1739390215244
+			},
+			{
+				"Text": "elephant are af",
+				"TimeStamp": 1739390215739
+			},
+			{
+				"Text": "elephant are afr",
+				"TimeStamp": 1739390215908
+			},
+			{
+				"Text": "elephant are afra",
+				"TimeStamp": 1739390216189
+			},
+			{
+				"Text": "elephant are afrai",
+				"TimeStamp": 1739390216298
+			},
+			{
+				"Text": "elephant are afraig",
+				"TimeStamp": 1739390216494
+			},
+			{
+				"Text": "elephant are afrai",
+				"TimeStamp": 1739390216922
+			},
+			{
+				"Text": "elephant are afraid",
+				"TimeStamp": 1739390217116
+			},
+			{
+				"Text": "elephant are afraid ",
+				"TimeStamp": 1739390217346
+			},
+			{
+				"Text": "elephant are afraid o",
+				"TimeStamp": 1739390217645
+			},
+			{
+				"Text": "elephant are afraid of",
+				"TimeStamp": 1739390218018
+			},
+			{
+				"Text": "elephant are afraid of ",
+				"TimeStamp": 1739390218398
+			},
+			{
+				"Text": "elephant are afraid of m",
+				"TimeStamp": 1739390218638
+			},
+			{
+				"Text": "elephant are afraid of mi",
+				"TimeStamp": 1739390218814
+			},
+			{
+				"Text": "elephant are afraid of min",
+				"TimeStamp": 1739390219030
+			},
+			{
+				"Text": "elephant are afraid of mi",
+				"TimeStamp": 1739390219535
+			},
+			{
+				"Text": "elephant are afraid of mic",
+				"TimeStamp": 1739390219767
+			},
+			{
+				"Text": "elephant are afraid of mice",
+				"TimeStamp": 1739390219919
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"delete",
+				18,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"delete",
+				25,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			]
+		],
+		"Trial": 11,
+		"Present": "elephants are afraid of mice",
+		"IF": 2,
+		"INF": 1,
+		"C": 27,
+		"CER": "0.067",
+		"UER": "0.033",
+		"TER": "0.100",
+		"Transcribed": "elephant are afraid of mice",
+		"Time": 7734
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "m",
+				"TimeStamp": 1739390222226
+			},
+			{
+				"Text": "my",
+				"TimeStamp": 1739390222482
+			},
+			{
+				"Text": "my ",
+				"TimeStamp": 1739390222727
+			},
+			{
+				"Text": "my f",
+				"TimeStamp": 1739390223204
+			},
+			{
+				"Text": "my fa",
+				"TimeStamp": 1739390223327
+			},
+			{
+				"Text": "my fav",
+				"TimeStamp": 1739390223496
+			},
+			{
+				"Text": "my favo",
+				"TimeStamp": 1739390223792
+			},
+			{
+				"Text": "my favor",
+				"TimeStamp": 1739390223963
+			},
+			{
+				"Text": "my favori",
+				"TimeStamp": 1739390224084
+			},
+			{
+				"Text": "my favorit",
+				"TimeStamp": 1739390224218
+			},
+			{
+				"Text": "my favorite",
+				"TimeStamp": 1739390224426
+			},
+			{
+				"Text": "my favorite ",
+				"TimeStamp": 1739390224456
+			},
+			{
+				"Text": "my favorite",
+				"TimeStamp": 1739390224795
+			},
+			{
+				"Text": "my favoritee",
+				"TimeStamp": 1739390224990
+			},
+			{
+				"Text": "my favorite",
+				"TimeStamp": 1739390225628
+			},
+			{
+				"Text": "my favorite ",
+				"TimeStamp": 1739390225951
+			},
+			{
+				"Text": "my favorite p",
+				"TimeStamp": 1739390226286
+			},
+			{
+				"Text": "my favorite pl",
+				"TimeStamp": 1739390226402
+			},
+			{
+				"Text": "my favorite pla",
+				"TimeStamp": 1739390226583
+			},
+			{
+				"Text": "my favorite plaf",
+				"TimeStamp": 1739390226762
+			},
+			{
+				"Text": "my favorite plafe",
+				"TimeStamp": 1739390226914
+			},
+			{
+				"Text": "my favorite place",
+				"TimeStamp": 1739390227034
+			},
+			{
+				"Text": "my favorite place ",
+				"TimeStamp": 1739390227061
+			},
+			{
+				"Text": "my favorite place t",
+				"TimeStamp": 1739390227429
+			},
+			{
+				"Text": "my favorite place to",
+				"TimeStamp": 1739390227563
+			},
+			{
+				"Text": "my favorite place to ",
+				"TimeStamp": 1739390227648
+			},
+			{
+				"Text": "my favorite place to v",
+				"TimeStamp": 1739390227855
+			},
+			{
+				"Text": "my favorite place to vi",
+				"TimeStamp": 1739390227971
+			},
+			{
+				"Text": "my favorite place to vis",
+				"TimeStamp": 1739390228330
+			},
+			{
+				"Text": "my favorite place to visi",
+				"TimeStamp": 1739390228451
+			},
+			{
+				"Text": "my favorite place to visit",
+				"TimeStamp": 1739390228627
+			},
+			{
+				"Text": "my favorite place to visity",
+				"TimeStamp": 1739390228782
+			},
+			{
+				"Text": "my favorite place to visit",
+				"TimeStamp": 1739390229525
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"delete",
+				11,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"delete",
+				11,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"replace",
+				15,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"delete",
+				26,
+				1
+			]
+		],
+		"Trial": 12,
+		"Present": "my favorite place to visit",
+		"IF": 4,
+		"INF": 0,
+		"C": 26,
+		"CER": "0.133",
+		"UER": "0.000",
+		"TER": "0.133",
+		"Transcribed": "my favorite place to visit",
+		"Time": 7299
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "t",
+				"TimeStamp": 1739390231642
+			},
+			{
+				"Text": "th",
+				"TimeStamp": 1739390231833
+			},
+			{
+				"Text": "the",
+				"TimeStamp": 1739390231941
+			},
+			{
+				"Text": "th",
+				"TimeStamp": 1739390232397
+			},
+			{
+				"Text": "thr",
+				"TimeStamp": 1739390232540
+			},
+			{
+				"Text": "thre",
+				"TimeStamp": 1739390232742
+			},
+			{
+				"Text": "three",
+				"TimeStamp": 1739390232917
+			},
+			{
+				"Text": "three ",
+				"TimeStamp": 1739390233084
+			},
+			{
+				"Text": "three t",
+				"TimeStamp": 1739390233387
+			},
+			{
+				"Text": "three tw",
+				"TimeStamp": 1739390233688
+			},
+			{
+				"Text": "three two",
+				"TimeStamp": 1739390233816
+			},
+			{
+				"Text": "three two ",
+				"TimeStamp": 1739390233998
+			},
+			{
+				"Text": "three two o",
+				"TimeStamp": 1739390234167
+			},
+			{
+				"Text": "three two on",
+				"TimeStamp": 1739390234376
+			},
+			{
+				"Text": "three two one",
+				"TimeStamp": 1739390234560
+			},
+			{
+				"Text": "three two one ",
+				"TimeStamp": 1739390234698
+			},
+			{
+				"Text": "three two one z",
+				"TimeStamp": 1739390235240
+			},
+			{
+				"Text": "three two one ze",
+				"TimeStamp": 1739390235443
+			},
+			{
+				"Text": "three two one zer",
+				"TimeStamp": 1739390235643
+			},
+			{
+				"Text": "three two one zero",
+				"TimeStamp": 1739390235774
+			},
+			{
+				"Text": "three two one zero ",
+				"TimeStamp": 1739390236390
+			},
+			{
+				"Text": "three two one zero b",
+				"TimeStamp": 1739390236640
+			},
+			{
+				"Text": "three two one zero bl",
+				"TimeStamp": 1739390236885
+			},
+			{
+				"Text": "three two one zero bla",
+				"TimeStamp": 1739390237014
+			},
+			{
+				"Text": "three two one zero blas",
+				"TimeStamp": 1739390237409
+			},
+			{
+				"Text": "three two one zero blast",
+				"TimeStamp": 1739390237694
+			},
+			{
+				"Text": "three two one zero blast ",
+				"TimeStamp": 1739390237834
+			},
+			{
+				"Text": "three two one zero blast o",
+				"TimeStamp": 1739390237967
+			},
+			{
+				"Text": "three two one zero blast of",
+				"TimeStamp": 1739390238212
+			},
+			{
+				"Text": "three two one zero blast off",
+				"TimeStamp": 1739390238397
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"delete",
+				2,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			]
+		],
+		"Trial": 13,
+		"Present": "three two one zero blast off",
+		"IF": 1,
+		"INF": 0,
+		"C": 28,
+		"CER": "0.034",
+		"UER": "0.000",
+		"TER": "0.034",
+		"Transcribed": "three two one zero blast off",
+		"Time": 6755
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "m",
+				"TimeStamp": 1739390240343
+			},
+			{
+				"Text": "my",
+				"TimeStamp": 1739390240591
+			},
+			{
+				"Text": "my ",
+				"TimeStamp": 1739390240739
+			},
+			{
+				"Text": "my f",
+				"TimeStamp": 1739390241013
+			},
+			{
+				"Text": "my fa",
+				"TimeStamp": 1739390241271
+			},
+			{
+				"Text": "my fav",
+				"TimeStamp": 1739390241538
+			},
+			{
+				"Text": "my favo",
+				"TimeStamp": 1739390241703
+			},
+			{
+				"Text": "my favor",
+				"TimeStamp": 1739390241946
+			},
+			{
+				"Text": "my favori",
+				"TimeStamp": 1739390242069
+			},
+			{
+				"Text": "my favorit",
+				"TimeStamp": 1739390242219
+			},
+			{
+				"Text": "my favorite",
+				"TimeStamp": 1739390242472
+			},
+			{
+				"Text": "my favorite ",
+				"TimeStamp": 1739390242657
+			},
+			{
+				"Text": "my favorite s",
+				"TimeStamp": 1739390243575
+			},
+			{
+				"Text": "my favorite su",
+				"TimeStamp": 1739390243701
+			},
+			{
+				"Text": "my favorite sub",
+				"TimeStamp": 1739390243906
+			},
+			{
+				"Text": "my favorite subj",
+				"TimeStamp": 1739390244421
+			},
+			{
+				"Text": "my favorite subje",
+				"TimeStamp": 1739390244561
+			},
+			{
+				"Text": "my favorite subjec",
+				"TimeStamp": 1739390244789
+			},
+			{
+				"Text": "my favorite subject",
+				"TimeStamp": 1739390245014
+			},
+			{
+				"Text": "my favorite subject ",
+				"TimeStamp": 1739390245178
+			},
+			{
+				"Text": "my favorite subject i",
+				"TimeStamp": 1739390245364
+			},
+			{
+				"Text": "my favorite subject is",
+				"TimeStamp": 1739390245679
+			},
+			{
+				"Text": "my favorite subject is ",
+				"TimeStamp": 1739390245836
+			},
+			{
+				"Text": "my favorite subject is p",
+				"TimeStamp": 1739390246369
+			},
+			{
+				"Text": "my favorite subject is ps",
+				"TimeStamp": 1739390247388
+			},
+			{
+				"Text": "my favorite subject is psy",
+				"TimeStamp": 1739390247872
+			},
+			{
+				"Text": "my favorite subject is psyc",
+				"TimeStamp": 1739390249255
+			},
+			{
+				"Text": "my favorite subject is psych",
+				"TimeStamp": 1739390249385
+			},
+			{
+				"Text": "my favorite subject is psycho",
+				"TimeStamp": 1739390249593
+			},
+			{
+				"Text": "my favorite subject is psychol",
+				"TimeStamp": 1739390249766
+			},
+			{
+				"Text": "my favorite subject is psycholo",
+				"TimeStamp": 1739390249948
+			},
+			{
+				"Text": "my favorite subject is psycholog",
+				"TimeStamp": 1739390250713
+			},
+			{
+				"Text": "my favorite subject is psychology",
+				"TimeStamp": 1739390250900
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				31,
+				1
+			],
+			[
+				"insert",
+				32,
+				1
+			]
+		],
+		"Trial": 14,
+		"Present": "my favorite subject is psychology",
+		"IF": 0,
+		"INF": 0,
+		"C": 33,
+		"CER": "0.000",
+		"UER": "0.000",
+		"TER": "0.000",
+		"Transcribed": "my favorite subject is psychology",
+		"Time": 10557
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "c",
+				"TimeStamp": 1739390253478
+			},
+			{
+				"Text": "ci",
+				"TimeStamp": 1739390253624
+			},
+			{
+				"Text": "cir",
+				"TimeStamp": 1739390253738
+			},
+			{
+				"Text": "circ",
+				"TimeStamp": 1739390254082
+			},
+			{
+				"Text": "circu",
+				"TimeStamp": 1739390254190
+			},
+			{
+				"Text": "circum",
+				"TimeStamp": 1739390254366
+			},
+			{
+				"Text": "circums",
+				"TimeStamp": 1739390254515
+			},
+			{
+				"Text": "circumst",
+				"TimeStamp": 1739390254709
+			},
+			{
+				"Text": "circumsta",
+				"TimeStamp": 1739390254866
+			},
+			{
+				"Text": "circumstan",
+				"TimeStamp": 1739390254982
+			},
+			{
+				"Text": "circumstanc",
+				"TimeStamp": 1739390255201
+			},
+			{
+				"Text": "circumstance",
+				"TimeStamp": 1739390255366
+			},
+			{
+				"Text": "circumstances",
+				"TimeStamp": 1739390255582
+			},
+			{
+				"Text": "circumstances ",
+				"TimeStamp": 1739390255727
+			},
+			{
+				"Text": "circumstances a",
+				"TimeStamp": 1739390255826
+			},
+			{
+				"Text": "circumstances ar",
+				"TimeStamp": 1739390256109
+			},
+			{
+				"Text": "circumstances are",
+				"TimeStamp": 1739390256283
+			},
+			{
+				"Text": "circumstances are ",
+				"TimeStamp": 1739390256458
+			},
+			{
+				"Text": "circumstances are u",
+				"TimeStamp": 1739390256953
+			},
+			{
+				"Text": "circumstances are un",
+				"TimeStamp": 1739390257072
+			},
+			{
+				"Text": "circumstances are una",
+				"TimeStamp": 1739390257333
+			},
+			{
+				"Text": "circumstances are unac",
+				"TimeStamp": 1739390257623
+			},
+			{
+				"Text": "circumstances are unacc",
+				"TimeStamp": 1739390258087
+			},
+			{
+				"Text": "circumstances are unacce",
+				"TimeStamp": 1739390258268
+			},
+			{
+				"Text": "circumstances are unaccep",
+				"TimeStamp": 1739390258487
+			},
+			{
+				"Text": "circumstances are unaccepr",
+				"TimeStamp": 1739390260680
+			},
+			{
+				"Text": "circumstances are unaccep",
+				"TimeStamp": 1739390261199
+			},
+			{
+				"Text": "circumstances are unaccept",
+				"TimeStamp": 1739390261386
+			},
+			{
+				"Text": "circumstances are unaccepta",
+				"TimeStamp": 1739390261701
+			},
+			{
+				"Text": "circumstances are unacceptab",
+				"TimeStamp": 1739390261754
+			},
+			{
+				"Text": "circumstances are unacceptabl",
+				"TimeStamp": 1739390261910
+			},
+			{
+				"Text": "circumstances are unacceptable",
+				"TimeStamp": 1739390262016
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"delete",
+				25,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 15,
+		"Present": "circumstances are unacceptable",
+		"IF": 1,
+		"INF": 0,
+		"C": 30,
+		"CER": "0.032",
+		"UER": "0.000",
+		"TER": "0.032",
+		"Transcribed": "circumstances are unacceptable",
+		"Time": 8538
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "w",
+				"TimeStamp": 1739390264005
+			},
+			{
+				"Text": "wa",
+				"TimeStamp": 1739390264226
+			},
+			{
+				"Text": "wat",
+				"TimeStamp": 1739390264470
+			},
+			{
+				"Text": "watc",
+				"TimeStamp": 1739390264698
+			},
+			{
+				"Text": "watch",
+				"TimeStamp": 1739390264819
+			},
+			{
+				"Text": "watch ",
+				"TimeStamp": 1739390265027
+			},
+			{
+				"Text": "watch o",
+				"TimeStamp": 1739390265445
+			},
+			{
+				"Text": "watch ou",
+				"TimeStamp": 1739390265639
+			},
+			{
+				"Text": "watch out",
+				"TimeStamp": 1739390265853
+			},
+			{
+				"Text": "watch out ",
+				"TimeStamp": 1739390265955
+			},
+			{
+				"Text": "watch out f",
+				"TimeStamp": 1739390266136
+			},
+			{
+				"Text": "watch out fo",
+				"TimeStamp": 1739390266297
+			},
+			{
+				"Text": "watch out for",
+				"TimeStamp": 1739390266464
+			},
+			{
+				"Text": "watch out for ",
+				"TimeStamp": 1739390266626
+			},
+			{
+				"Text": "watch out for l",
+				"TimeStamp": 1739390267010
+			},
+			{
+				"Text": "watch out for lo",
+				"TimeStamp": 1739390267170
+			},
+			{
+				"Text": "watch out for low",
+				"TimeStamp": 1739390267481
+			},
+			{
+				"Text": "watch out for low ",
+				"TimeStamp": 1739390267612
+			},
+			{
+				"Text": "watch out for low f",
+				"TimeStamp": 1739390267982
+			},
+			{
+				"Text": "watch out for low fl",
+				"TimeStamp": 1739390268071
+			},
+			{
+				"Text": "watch out for low fly",
+				"TimeStamp": 1739390268497
+			},
+			{
+				"Text": "watch out for low flyi",
+				"TimeStamp": 1739390268630
+			},
+			{
+				"Text": "watch out for low flyin",
+				"TimeStamp": 1739390268787
+			},
+			{
+				"Text": "watch out for low flying",
+				"TimeStamp": 1739390268913
+			},
+			{
+				"Text": "watch out for low flying ",
+				"TimeStamp": 1739390269122
+			},
+			{
+				"Text": "watch out for low flying o",
+				"TimeStamp": 1739390269715
+			},
+			{
+				"Text": "watch out for low flying ob",
+				"TimeStamp": 1739390269916
+			},
+			{
+				"Text": "watch out for low flying obj",
+				"TimeStamp": 1739390270226
+			},
+			{
+				"Text": "watch out for low flying obje",
+				"TimeStamp": 1739390270374
+			},
+			{
+				"Text": "watch out for low flying objec",
+				"TimeStamp": 1739390270609
+			},
+			{
+				"Text": "watch out for low flying object",
+				"TimeStamp": 1739390270887
+			},
+			{
+				"Text": "watch out for low flying objects",
+				"TimeStamp": 1739390271008
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				31,
+				1
+			]
+		],
+		"Trial": 16,
+		"Present": "watch out for low flying objects",
+		"IF": 0,
+		"INF": 0,
+		"C": 32,
+		"CER": "0.000",
+		"UER": "0.000",
+		"TER": "0.000",
+		"Transcribed": "watch out for low flying objects",
+		"Time": 7003
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "I",
+				"TimeStamp": 1739390272500
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390273089
+			},
+			{
+				"Text": "i",
+				"TimeStamp": 1739390273516
+			},
+			{
+				"Text": "if",
+				"TimeStamp": 1739390273790
+			},
+			{
+				"Text": "if ",
+				"TimeStamp": 1739390273964
+			},
+			{
+				"Text": "if a",
+				"TimeStamp": 1739390274142
+			},
+			{
+				"Text": "if at",
+				"TimeStamp": 1739390274696
+			},
+			{
+				"Text": "if at ",
+				"TimeStamp": 1739390274884
+			},
+			{
+				"Text": "if at f",
+				"TimeStamp": 1739390275065
+			},
+			{
+				"Text": "if at fi",
+				"TimeStamp": 1739390275181
+			},
+			{
+				"Text": "if at fir",
+				"TimeStamp": 1739390275274
+			},
+			{
+				"Text": "if at firs",
+				"TimeStamp": 1739390275483
+			},
+			{
+				"Text": "if at first",
+				"TimeStamp": 1739390275593
+			},
+			{
+				"Text": "if at first ",
+				"TimeStamp": 1739390275714
+			},
+			{
+				"Text": "if at first t",
+				"TimeStamp": 1739390276206
+			},
+			{
+				"Text": "if at first ",
+				"TimeStamp": 1739390276808
+			},
+			{
+				"Text": "if at first y",
+				"TimeStamp": 1739390277056
+			},
+			{
+				"Text": "if at first yo",
+				"TimeStamp": 1739390277168
+			},
+			{
+				"Text": "if at first you",
+				"TimeStamp": 1739390277346
+			},
+			{
+				"Text": "if at first you ",
+				"TimeStamp": 1739390277505
+			},
+			{
+				"Text": "if at first you d",
+				"TimeStamp": 1739390277841
+			},
+			{
+				"Text": "if at first you do",
+				"TimeStamp": 1739390277937
+			},
+			{
+				"Text": "if at first you don",
+				"TimeStamp": 1739390278104
+			},
+			{
+				"Text": "if at first you dont",
+				"TimeStamp": 1739390278226
+			},
+			{
+				"Text": "if at first you don't",
+				"TimeStamp": 1739390278339
+			},
+			{
+				"Text": "if at first you don't ",
+				"TimeStamp": 1739390278366
+			},
+			{
+				"Text": "if at first you don't s",
+				"TimeStamp": 1739390278596
+			},
+			{
+				"Text": "if at first you don't su",
+				"TimeStamp": 1739390278787
+			},
+			{
+				"Text": "if at first you don't suc",
+				"TimeStamp": 1739390279059
+			},
+			{
+				"Text": "if at first you don't succ",
+				"TimeStamp": 1739390279211
+			},
+			{
+				"Text": "if at first you don't succe",
+				"TimeStamp": 1739390279351
+			},
+			{
+				"Text": "if at first you don't succed",
+				"TimeStamp": 1739390279536
+			},
+			{
+				"Text": "if at first you don't succedd",
+				"TimeStamp": 1739390279709
+			},
+			{
+				"Text": "if at first you don't succeed",
+				"TimeStamp": 1739390280656
+			},
+			{
+				"Text": "if at first you don't succeed ",
+				"TimeStamp": 1739390280707
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"delete",
+				12,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"replace",
+				27,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 17,
+		"Present": "if at first you do not succeed",
+		"IF": 3,
+		"INF": 3,
+		"C": 27,
+		"CER": "0.091",
+		"UER": "0.091",
+		"TER": "0.182",
+		"Transcribed": "if at first you don't succeed ",
+		"Time": 8207
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "p",
+				"TimeStamp": 1739390282702
+			},
+			{
+				"Text": "pl",
+				"TimeStamp": 1739390282800
+			},
+			{
+				"Text": "ple",
+				"TimeStamp": 1739390282884
+			},
+			{
+				"Text": "plea",
+				"TimeStamp": 1739390283078
+			},
+			{
+				"Text": "pleas",
+				"TimeStamp": 1739390283252
+			},
+			{
+				"Text": "please",
+				"TimeStamp": 1739390283402
+			},
+			{
+				"Text": "please ",
+				"TimeStamp": 1739390283518
+			},
+			{
+				"Text": "please o",
+				"TimeStamp": 1739390283687
+			},
+			{
+				"Text": "please or",
+				"TimeStamp": 1739390283801
+			},
+			{
+				"Text": "please oro",
+				"TimeStamp": 1739390283919
+			},
+			{
+				"Text": "please orov",
+				"TimeStamp": 1739390284174
+			},
+			{
+				"Text": "please orovi",
+				"TimeStamp": 1739390284319
+			},
+			{
+				"Text": "please orovid",
+				"TimeStamp": 1739390284479
+			},
+			{
+				"Text": "please orovide",
+				"TimeStamp": 1739390284628
+			},
+			{
+				"Text": "please provide",
+				"TimeStamp": 1739390284791
+			},
+			{
+				"Text": "please provide ",
+				"TimeStamp": 1739390284818
+			},
+			{
+				"Text": "please provide y",
+				"TimeStamp": 1739390285090
+			},
+			{
+				"Text": "please provide yo",
+				"TimeStamp": 1739390285227
+			},
+			{
+				"Text": "please provide you",
+				"TimeStamp": 1739390285289
+			},
+			{
+				"Text": "please provide your",
+				"TimeStamp": 1739390285521
+			},
+			{
+				"Text": "please provide your ",
+				"TimeStamp": 1739390285638
+			},
+			{
+				"Text": "please provide your d",
+				"TimeStamp": 1739390287006
+			},
+			{
+				"Text": "please provide your da",
+				"TimeStamp": 1739390287139
+			},
+			{
+				"Text": "please provide your dat",
+				"TimeStamp": 1739390287245
+			},
+			{
+				"Text": "please provide your date",
+				"TimeStamp": 1739390287510
+			},
+			{
+				"Text": "please provide your date ",
+				"TimeStamp": 1739390287640
+			},
+			{
+				"Text": "please provide your date o",
+				"TimeStamp": 1739390287763
+			},
+			{
+				"Text": "please provide your date of",
+				"TimeStamp": 1739390287958
+			},
+			{
+				"Text": "please provide your date of ",
+				"TimeStamp": 1739390288081
+			},
+			{
+				"Text": "please provide your date of b",
+				"TimeStamp": 1739390288325
+			},
+			{
+				"Text": "please provide your date of bi",
+				"TimeStamp": 1739390288509
+			},
+			{
+				"Text": "please provide your date of bir",
+				"TimeStamp": 1739390288615
+			},
+			{
+				"Text": "please provide your date of birt",
+				"TimeStamp": 1739390288819
+			},
+			{
+				"Text": "please provide your date of birth",
+				"TimeStamp": 1739390288931
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"replace",
+				7,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				31,
+				1
+			],
+			[
+				"insert",
+				32,
+				1
+			]
+		],
+		"Trial": 18,
+		"Present": "please provide your date of birth",
+		"IF": 1,
+		"INF": 0,
+		"C": 33,
+		"CER": "0.029",
+		"UER": "0.000",
+		"TER": "0.029",
+		"Transcribed": "please provide your date of birth",
+		"Time": 6229
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "w",
+				"TimeStamp": 1739390290818
+			},
+			{
+				"Text": "we",
+				"TimeStamp": 1739390290996
+			},
+			{
+				"Text": "we ",
+				"TimeStamp": 1739390291138
+			},
+			{
+				"Text": "we r",
+				"TimeStamp": 1739390291462
+			},
+			{
+				"Text": "we ru",
+				"TimeStamp": 1739390291596
+			},
+			{
+				"Text": "we run",
+				"TimeStamp": 1739390291664
+			},
+			{
+				"Text": "we runn",
+				"TimeStamp": 1739390291781
+			},
+			{
+				"Text": "we run",
+				"TimeStamp": 1739390291881
+			},
+			{
+				"Text": "we run ",
+				"TimeStamp": 1739390291917
+			},
+			{
+				"Text": "we run t",
+				"TimeStamp": 1739390292484
+			},
+			{
+				"Text": "we run th",
+				"TimeStamp": 1739390292605
+			},
+			{
+				"Text": "we run the",
+				"TimeStamp": 1739390292724
+			},
+			{
+				"Text": "we run the ",
+				"TimeStamp": 1739390292857
+			},
+			{
+				"Text": "we run the r",
+				"TimeStamp": 1739390293336
+			},
+			{
+				"Text": "we run the ri",
+				"TimeStamp": 1739390293468
+			},
+			{
+				"Text": "we run the ris",
+				"TimeStamp": 1739390293971
+			},
+			{
+				"Text": "we run the risk",
+				"TimeStamp": 1739390294256
+			},
+			{
+				"Text": "we run the risk ",
+				"TimeStamp": 1739390294391
+			},
+			{
+				"Text": "we run the risk o",
+				"TimeStamp": 1739390294505
+			},
+			{
+				"Text": "we run the risk of",
+				"TimeStamp": 1739390294672
+			},
+			{
+				"Text": "we run the risk of ",
+				"TimeStamp": 1739390294733
+			},
+			{
+				"Text": "we run the risk of f",
+				"TimeStamp": 1739390294960
+			},
+			{
+				"Text": "we run the risk of fa",
+				"TimeStamp": 1739390295189
+			},
+			{
+				"Text": "we run the risk of fai",
+				"TimeStamp": 1739390295275
+			},
+			{
+				"Text": "we run the risk of fail",
+				"TimeStamp": 1739390295445
+			},
+			{
+				"Text": "we run the risk of failu",
+				"TimeStamp": 1739390295637
+			},
+			{
+				"Text": "we run the risk of failur",
+				"TimeStamp": 1739390295992
+			},
+			{
+				"Text": "we run the risk of failure",
+				"TimeStamp": 1739390296117
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"delete",
+				6,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			]
+		],
+		"Trial": 19,
+		"Present": "we run the risk of failure",
+		"IF": 1,
+		"INF": 0,
+		"C": 26,
+		"CER": "0.037",
+		"UER": "0.000",
+		"TER": "0.037",
+		"Transcribed": "we run the risk of failure",
+		"Time": 5299
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "P",
+				"TimeStamp": 1739390297851
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390298425
+			},
+			{
+				"Text": "p",
+				"TimeStamp": 1739390298929
+			},
+			{
+				"Text": "pr",
+				"TimeStamp": 1739390299200
+			},
+			{
+				"Text": "pre",
+				"TimeStamp": 1739390299324
+			},
+			{
+				"Text": "pr",
+				"TimeStamp": 1739390299677
+			},
+			{
+				"Text": "pra",
+				"TimeStamp": 1739390299878
+			},
+			{
+				"Text": "pray",
+				"TimeStamp": 1739390300059
+			},
+			{
+				"Text": "praye",
+				"TimeStamp": 1739390300219
+			},
+			{
+				"Text": "prayer",
+				"TimeStamp": 1739390300325
+			},
+			{
+				"Text": "prayer ",
+				"TimeStamp": 1739390300548
+			},
+			{
+				"Text": "prayer i",
+				"TimeStamp": 1739390300747
+			},
+			{
+				"Text": "prayer in",
+				"TimeStamp": 1739390300932
+			},
+			{
+				"Text": "prayer in ",
+				"TimeStamp": 1739390301065
+			},
+			{
+				"Text": "prayer in s",
+				"TimeStamp": 1739390301208
+			},
+			{
+				"Text": "prayer in sc",
+				"TimeStamp": 1739390301428
+			},
+			{
+				"Text": "prayer in sch",
+				"TimeStamp": 1739390301526
+			},
+			{
+				"Text": "prayer in scho",
+				"TimeStamp": 1739390301669
+			},
+			{
+				"Text": "prayer in schoo",
+				"TimeStamp": 1739390301818
+			},
+			{
+				"Text": "prayer in school",
+				"TimeStamp": 1739390302012
+			},
+			{
+				"Text": "prayer in schools",
+				"TimeStamp": 1739390302201
+			},
+			{
+				"Text": "prayer in schools ",
+				"TimeStamp": 1739390302415
+			},
+			{
+				"Text": "prayer in schools o",
+				"TimeStamp": 1739390302914
+			},
+			{
+				"Text": "prayer in schools of",
+				"TimeStamp": 1739390303204
+			},
+			{
+				"Text": "prayer in schools off",
+				"TimeStamp": 1739390303336
+			},
+			{
+				"Text": "prayer in schools offe",
+				"TimeStamp": 1739390303505
+			},
+			{
+				"Text": "prayer in schools offen",
+				"TimeStamp": 1739390303661
+			},
+			{
+				"Text": "prayer in schools offend",
+				"TimeStamp": 1739390303767
+			},
+			{
+				"Text": "prayer in schools offends",
+				"TimeStamp": 1739390303947
+			},
+			{
+				"Text": "prayer in schools offends ",
+				"TimeStamp": 1739390304108
+			},
+			{
+				"Text": "prayer in schools offends s",
+				"TimeStamp": 1739390304328
+			},
+			{
+				"Text": "prayer in schools offends so",
+				"TimeStamp": 1739390304456
+			},
+			{
+				"Text": "prayer in schools offends som",
+				"TimeStamp": 1739390304585
+			},
+			{
+				"Text": "prayer in schools offends some",
+				"TimeStamp": 1739390304711
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"delete",
+				2,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 20,
+		"Present": "prayer in schools offends some",
+		"IF": 2,
+		"INF": 0,
+		"C": 30,
+		"CER": "0.063",
+		"UER": "0.000",
+		"TER": "0.063",
+		"Transcribed": "prayer in schools offends some",
+		"Time": 6860
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "h",
+				"TimeStamp": 1739390307540
+			},
+			{
+				"Text": "he",
+				"TimeStamp": 1739390307678
+			},
+			{
+				"Text": "he ",
+				"TimeStamp": 1739390307831
+			},
+			{
+				"Text": "he i",
+				"TimeStamp": 1739390307997
+			},
+			{
+				"Text": "he is",
+				"TimeStamp": 1739390308147
+			},
+			{
+				"Text": "he is ",
+				"TimeStamp": 1739390308245
+			},
+			{
+				"Text": "he is j",
+				"TimeStamp": 1739390308513
+			},
+			{
+				"Text": "he is ju",
+				"TimeStamp": 1739390308681
+			},
+			{
+				"Text": "he is jus",
+				"TimeStamp": 1739390308796
+			},
+			{
+				"Text": "he is just",
+				"TimeStamp": 1739390308992
+			},
+			{
+				"Text": "he is just ",
+				"TimeStamp": 1739390309142
+			},
+			{
+				"Text": "he is just l",
+				"TimeStamp": 1739390309233
+			},
+			{
+				"Text": "he is just li",
+				"TimeStamp": 1739390309369
+			},
+			{
+				"Text": "he is just lik",
+				"TimeStamp": 1739390309532
+			},
+			{
+				"Text": "he is just like",
+				"TimeStamp": 1739390309654
+			},
+			{
+				"Text": "he is just like ",
+				"TimeStamp": 1739390309819
+			},
+			{
+				"Text": "he is just like e",
+				"TimeStamp": 1739390310005
+			},
+			{
+				"Text": "he is just like ev",
+				"TimeStamp": 1739390313155
+			},
+			{
+				"Text": "he is just like eve",
+				"TimeStamp": 1739390313325
+			},
+			{
+				"Text": "he is just like ever",
+				"TimeStamp": 1739390313535
+			},
+			{
+				"Text": "he is just like every",
+				"TimeStamp": 1739390313927
+			},
+			{
+				"Text": "he is just like everyo",
+				"TimeStamp": 1739390314058
+			},
+			{
+				"Text": "he is just like everyon",
+				"TimeStamp": 1739390314231
+			},
+			{
+				"Text": "he is just like everyone",
+				"TimeStamp": 1739390314392
+			},
+			{
+				"Text": "he is just like everyone ",
+				"TimeStamp": 1739390314498
+			},
+			{
+				"Text": "he is just like everyone e",
+				"TimeStamp": 1739390314961
+			},
+			{
+				"Text": "he is just like everyone el",
+				"TimeStamp": 1739390315076
+			},
+			{
+				"Text": "he is just like everyone els",
+				"TimeStamp": 1739390315268
+			},
+			{
+				"Text": "he is just like everyone else",
+				"TimeStamp": 1739390315432
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			]
+		],
+		"Trial": 21,
+		"Present": "he is just like everyone else",
+		"IF": 0,
+		"INF": 0,
+		"C": 29,
+		"CER": "0.000",
+		"UER": "0.000",
+		"TER": "0.000",
+		"Transcribed": "he is just like everyone else",
+		"Time": 7892
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "G",
+				"TimeStamp": 1739390319907
+			},
+			{
+				"Text": "Gr",
+				"TimeStamp": 1739390320036
+			},
+			{
+				"Text": "Gre",
+				"TimeStamp": 1739390320156
+			},
+			{
+				"Text": "Grea",
+				"TimeStamp": 1739390320396
+			},
+			{
+				"Text": "Great",
+				"TimeStamp": 1739390320487
+			},
+			{
+				"Text": "Great ",
+				"TimeStamp": 1739390320633
+			},
+			{
+				"Text": "Great d",
+				"TimeStamp": 1739390320915
+			},
+			{
+				"Text": "Great di",
+				"TimeStamp": 1739390321048
+			},
+			{
+				"Text": "Great dis",
+				"TimeStamp": 1739390321193
+			},
+			{
+				"Text": "Great dist",
+				"TimeStamp": 1739390321491
+			},
+			{
+				"Text": "Great distu",
+				"TimeStamp": 1739390321678
+			},
+			{
+				"Text": "Great distur",
+				"TimeStamp": 1739390322015
+			},
+			{
+				"Text": "Great disturb",
+				"TimeStamp": 1739390322279
+			},
+			{
+				"Text": "Great disturba",
+				"TimeStamp": 1739390322390
+			},
+			{
+				"Text": "Great disturban",
+				"TimeStamp": 1739390322493
+			},
+			{
+				"Text": "Great disturbanc",
+				"TimeStamp": 1739390322652
+			},
+			{
+				"Text": "Great disturbance",
+				"TimeStamp": 1739390322834
+			},
+			{
+				"Text": "Great disturbance ",
+				"TimeStamp": 1739390322963
+			},
+			{
+				"Text": "Great disturbance i",
+				"TimeStamp": 1739390323164
+			},
+			{
+				"Text": "Great disturbance in",
+				"TimeStamp": 1739390323283
+			},
+			{
+				"Text": "Great disturbance in ",
+				"TimeStamp": 1739390323365
+			},
+			{
+				"Text": "Great disturbance in t",
+				"TimeStamp": 1739390323524
+			},
+			{
+				"Text": "Great disturbance in th",
+				"TimeStamp": 1739390323584
+			},
+			{
+				"Text": "Great disturbance in the",
+				"TimeStamp": 1739390323743
+			},
+			{
+				"Text": "Great disturbance in the ",
+				"TimeStamp": 1739390323812
+			},
+			{
+				"Text": "Great disturbance in the f",
+				"TimeStamp": 1739390324014
+			},
+			{
+				"Text": "Great disturbance in the fo",
+				"TimeStamp": 1739390324094
+			},
+			{
+				"Text": "Great disturbance in the for",
+				"TimeStamp": 1739390324221
+			},
+			{
+				"Text": "Great disturbance in the forc",
+				"TimeStamp": 1739390324512
+			},
+			{
+				"Text": "Great disturbance in the force",
+				"TimeStamp": 1739390324879
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 22,
+		"Present": "great disturbance in the force",
+		"IF": 0,
+		"INF": 1,
+		"C": 29,
+		"CER": "0.000",
+		"UER": "0.033",
+		"TER": "0.033",
+		"Transcribed": "Great disturbance in the force",
+		"Time": 4972
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "l",
+				"TimeStamp": 1739390326870
+			},
+			{
+				"Text": "lo",
+				"TimeStamp": 1739390327039
+			},
+			{
+				"Text": "lob",
+				"TimeStamp": 1739390327313
+			},
+			{
+				"Text": "lobe",
+				"TimeStamp": 1739390327427
+			},
+			{
+				"Text": "love",
+				"TimeStamp": 1739390327575
+			},
+			{
+				"Text": "love ",
+				"TimeStamp": 1739390327602
+			},
+			{
+				"Text": "love m",
+				"TimeStamp": 1739390327754
+			},
+			{
+				"Text": "love me",
+				"TimeStamp": 1739390327823
+			},
+			{
+				"Text": "love mea",
+				"TimeStamp": 1739390330657
+			},
+			{
+				"Text": "love mean",
+				"TimeStamp": 1739390330865
+			},
+			{
+				"Text": "love means",
+				"TimeStamp": 1739390331072
+			},
+			{
+				"Text": "love means ",
+				"TimeStamp": 1739390331207
+			},
+			{
+				"Text": "love means m",
+				"TimeStamp": 1739390331373
+			},
+			{
+				"Text": "love means ma",
+				"TimeStamp": 1739390331723
+			},
+			{
+				"Text": "love means man",
+				"TimeStamp": 1739390331848
+			},
+			{
+				"Text": "love means many",
+				"TimeStamp": 1739390331999
+			},
+			{
+				"Text": "love means many ",
+				"TimeStamp": 1739390332097
+			},
+			{
+				"Text": "love means many t",
+				"TimeStamp": 1739390332308
+			},
+			{
+				"Text": "love means many th",
+				"TimeStamp": 1739390332402
+			},
+			{
+				"Text": "love means many thi",
+				"TimeStamp": 1739390332543
+			},
+			{
+				"Text": "love means many thin",
+				"TimeStamp": 1739390332702
+			},
+			{
+				"Text": "love means many thing",
+				"TimeStamp": 1739390332799
+			},
+			{
+				"Text": "love means many things",
+				"TimeStamp": 1739390333054
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"replace",
+				2,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			]
+		],
+		"Trial": 23,
+		"Present": "love means many things",
+		"IF": 1,
+		"INF": 0,
+		"C": 22,
+		"CER": "0.043",
+		"UER": "0.000",
+		"TER": "0.043",
+		"Transcribed": "love means many things",
+		"Time": 6184
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "Y",
+				"TimeStamp": 1739390335287
+			},
+			{
+				"Text": "Yo",
+				"TimeStamp": 1739390335426
+			},
+			{
+				"Text": "You",
+				"TimeStamp": 1739390335475
+			},
+			{
+				"Text": "You ",
+				"TimeStamp": 1739390335554
+			},
+			{
+				"Text": "You b",
+				"TimeStamp": 1739390335802
+			},
+			{
+				"Text": "You ",
+				"TimeStamp": 1739390336342
+			},
+			{
+				"Text": "You m",
+				"TimeStamp": 1739390336685
+			},
+			{
+				"Text": "You mu",
+				"TimeStamp": 1739390336859
+			},
+			{
+				"Text": "You mus",
+				"TimeStamp": 1739390337000
+			},
+			{
+				"Text": "You must",
+				"TimeStamp": 1739390337211
+			},
+			{
+				"Text": "You must ",
+				"TimeStamp": 1739390337308
+			},
+			{
+				"Text": "You must b",
+				"TimeStamp": 1739390338049
+			},
+			{
+				"Text": "You must be",
+				"TimeStamp": 1739390338177
+			},
+			{
+				"Text": "You must be ",
+				"TimeStamp": 1739390338284
+			},
+			{
+				"Text": "You must be g",
+				"TimeStamp": 1739390338662
+			},
+			{
+				"Text": "You must be ge",
+				"TimeStamp": 1739390338823
+			},
+			{
+				"Text": "You must be get",
+				"TimeStamp": 1739390339017
+			},
+			{
+				"Text": "You must be gett",
+				"TimeStamp": 1739390339168
+			},
+			{
+				"Text": "You must be getti",
+				"TimeStamp": 1739390339292
+			},
+			{
+				"Text": "You must be gettin",
+				"TimeStamp": 1739390339348
+			},
+			{
+				"Text": "You must be getting",
+				"TimeStamp": 1739390339428
+			},
+			{
+				"Text": "You must be getting ",
+				"TimeStamp": 1739390339615
+			},
+			{
+				"Text": "You must be getting o",
+				"TimeStamp": 1739390339705
+			},
+			{
+				"Text": "You must be getting ol",
+				"TimeStamp": 1739390339903
+			},
+			{
+				"Text": "You must be getting old",
+				"TimeStamp": 1739390340093
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"delete",
+				4,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			]
+		],
+		"Trial": 24,
+		"Present": "you must be getting old",
+		"IF": 1,
+		"INF": 1,
+		"C": 22,
+		"CER": "0.042",
+		"UER": "0.042",
+		"TER": "0.083",
+		"Transcribed": "You must be getting old",
+		"Time": 4806
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "T",
+				"TimeStamp": 1739390342113
+			},
+			{
+				"Text": "Th",
+				"TimeStamp": 1739390342210
+			},
+			{
+				"Text": "The",
+				"TimeStamp": 1739390342311
+			},
+			{
+				"Text": "The ",
+				"TimeStamp": 1739390342393
+			},
+			{
+				"Text": "The w",
+				"TimeStamp": 1739390342737
+			},
+			{
+				"Text": "The wo",
+				"TimeStamp": 1739390342867
+			},
+			{
+				"Text": "The wor",
+				"TimeStamp": 1739390342945
+			},
+			{
+				"Text": "The work",
+				"TimeStamp": 1739390343033
+			},
+			{
+				"Text": "The work ",
+				"TimeStamp": 1739390343196
+			},
+			{
+				"Text": "The work i",
+				"TimeStamp": 1739390343377
+			},
+			{
+				"Text": "The work is",
+				"TimeStamp": 1739390343553
+			},
+			{
+				"Text": "The work is ",
+				"TimeStamp": 1739390343659
+			},
+			{
+				"Text": "The work is t",
+				"TimeStamp": 1739390343772
+			},
+			{
+				"Text": "The work is th",
+				"TimeStamp": 1739390343865
+			},
+			{
+				"Text": "The work is the",
+				"TimeStamp": 1739390343977
+			},
+			{
+				"Text": "The work is the ",
+				"TimeStamp": 1739390344085
+			},
+			{
+				"Text": "The work is the s",
+				"TimeStamp": 1739390344323
+			},
+			{
+				"Text": "The work is the st",
+				"TimeStamp": 1739390344414
+			},
+			{
+				"Text": "The work is the sta",
+				"TimeStamp": 1739390344518
+			},
+			{
+				"Text": "The work is the stag",
+				"TimeStamp": 1739390344726
+			},
+			{
+				"Text": "The work is the stage",
+				"TimeStamp": 1739390344840
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			]
+		],
+		"Trial": 25,
+		"Present": "the world is a stage",
+		"IF": 0,
+		"INF": 6,
+		"C": 15,
+		"CER": "0.000",
+		"UER": "0.286",
+		"TER": "0.286",
+		"Transcribed": "The work is the stage",
+		"Time": 2727
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "C",
+				"TimeStamp": 1739390347092
+			},
+			{
+				"Text": "Ca",
+				"TimeStamp": 1739390347177
+			},
+			{
+				"Text": "Can",
+				"TimeStamp": 1739390347266
+			},
+			{
+				"Text": "Can ",
+				"TimeStamp": 1739390347364
+			},
+			{
+				"Text": "Can i",
+				"TimeStamp": 1739390347449
+			},
+			{
+				"Text": "Can I",
+				"TimeStamp": 1739390347542
+			},
+			{
+				"Text": "Can I ",
+				"TimeStamp": 1739390347571
+			},
+			{
+				"Text": "Can I s",
+				"TimeStamp": 1739390347794
+			},
+			{
+				"Text": "Can I sk",
+				"TimeStamp": 1739390347908
+			},
+			{
+				"Text": "Can I ska",
+				"TimeStamp": 1739390348055
+			},
+			{
+				"Text": "Can I skat",
+				"TimeStamp": 1739390348238
+			},
+			{
+				"Text": "Can I skate",
+				"TimeStamp": 1739390348347
+			},
+			{
+				"Text": "Can I skate ",
+				"TimeStamp": 1739390348466
+			},
+			{
+				"Text": "Can I skate w",
+				"TimeStamp": 1739390348638
+			},
+			{
+				"Text": "Can I skate wi",
+				"TimeStamp": 1739390348734
+			},
+			{
+				"Text": "Can I skate wit",
+				"TimeStamp": 1739390348891
+			},
+			{
+				"Text": "Can I skate with",
+				"TimeStamp": 1739390348949
+			},
+			{
+				"Text": "Can I skate with ",
+				"TimeStamp": 1739390350088
+			},
+			{
+				"Text": "Can I skate with m",
+				"TimeStamp": 1739390350248
+			},
+			{
+				"Text": "Can I skate with my",
+				"TimeStamp": 1739390350546
+			},
+			{
+				"Text": "Can I skate with my ",
+				"TimeStamp": 1739390350662
+			},
+			{
+				"Text": "Can I skate with my s",
+				"TimeStamp": 1739390350820
+			},
+			{
+				"Text": "Can I skate with my si",
+				"TimeStamp": 1739390350902
+			},
+			{
+				"Text": "Can I skate with my sis",
+				"TimeStamp": 1739390350995
+			},
+			{
+				"Text": "Can I skate with my sist",
+				"TimeStamp": 1739390351214
+			},
+			{
+				"Text": "Can I skate with my siste",
+				"TimeStamp": 1739390351392
+			},
+			{
+				"Text": "Can I skate with my sister",
+				"TimeStamp": 1739390351464
+			},
+			{
+				"Text": "Can I skate with my sister ",
+				"TimeStamp": 1739390351599
+			},
+			{
+				"Text": "Can I skate with my sister t",
+				"TimeStamp": 1739390351715
+			},
+			{
+				"Text": "Can I skate with my sister to",
+				"TimeStamp": 1739390351825
+			},
+			{
+				"Text": "Can I skate with my sister tod",
+				"TimeStamp": 1739390351981
+			},
+			{
+				"Text": "Can I skate with my sister tody",
+				"TimeStamp": 1739390352248
+			},
+			{
+				"Text": "Can I skate with my sister today",
+				"TimeStamp": 1739390353315
+			},
+			{
+				"Text": "Can I skate with my sister today ",
+				"TimeStamp": 1739390353364
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"replace",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				32,
+				1
+			]
+		],
+		"Trial": 26,
+		"Present": "can I skate with my sister today",
+		"IF": 1,
+		"INF": 2,
+		"C": 31,
+		"CER": "0.029",
+		"UER": "0.059",
+		"TER": "0.088",
+		"Transcribed": "Can I skate with my sister today ",
+		"Time": 6272
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "N",
+				"TimeStamp": 1739390355264
+			},
+			{
+				"Text": "Ne",
+				"TimeStamp": 1739390355389
+			},
+			{
+				"Text": "Nei",
+				"TimeStamp": 1739390355480
+			},
+			{
+				"Text": "Neit",
+				"TimeStamp": 1739390355642
+			},
+			{
+				"Text": "Neith",
+				"TimeStamp": 1739390355755
+			},
+			{
+				"Text": "Neithe",
+				"TimeStamp": 1739390355942
+			},
+			{
+				"Text": "Neither",
+				"TimeStamp": 1739390356044
+			},
+			{
+				"Text": "Neither ",
+				"TimeStamp": 1739390356186
+			},
+			{
+				"Text": "Neither a",
+				"TimeStamp": 1739390356333
+			},
+			{
+				"Text": "Neither a ",
+				"TimeStamp": 1739390356453
+			},
+			{
+				"Text": "Neither a b",
+				"TimeStamp": 1739390356698
+			},
+			{
+				"Text": "Neither a bo",
+				"TimeStamp": 1739390357575
+			},
+			{
+				"Text": "Neither a bor",
+				"TimeStamp": 1739390357707
+			},
+			{
+				"Text": "Neither a borr",
+				"TimeStamp": 1739390357814
+			},
+			{
+				"Text": "Neither a borro",
+				"TimeStamp": 1739390357976
+			},
+			{
+				"Text": "Neither a borrow",
+				"TimeStamp": 1739390358444
+			},
+			{
+				"Text": "Neither a borrowe",
+				"TimeStamp": 1739390358528
+			},
+			{
+				"Text": "Neither a borrower",
+				"TimeStamp": 1739390359434
+			},
+			{
+				"Text": "Neither a borrower ",
+				"TimeStamp": 1739390359593
+			},
+			{
+				"Text": "Neither a borrower n",
+				"TimeStamp": 1739390359895
+			},
+			{
+				"Text": "Neither a borrower no",
+				"TimeStamp": 1739390360068
+			},
+			{
+				"Text": "Neither a borrower nor",
+				"TimeStamp": 1739390360685
+			},
+			{
+				"Text": "Neither a borrower nor ",
+				"TimeStamp": 1739390360811
+			},
+			{
+				"Text": "Neither a borrower nor a",
+				"TimeStamp": 1739390360950
+			},
+			{
+				"Text": "Neither a borrower nor a ",
+				"TimeStamp": 1739390361051
+			},
+			{
+				"Text": "Neither a borrower nor a l",
+				"TimeStamp": 1739390361255
+			},
+			{
+				"Text": "Neither a borrower nor a le",
+				"TimeStamp": 1739390361384
+			},
+			{
+				"Text": "Neither a borrower nor a len",
+				"TimeStamp": 1739390361518
+			},
+			{
+				"Text": "Neither a borrower nor a lend",
+				"TimeStamp": 1739390361766
+			},
+			{
+				"Text": "Neither a borrower nor a lende",
+				"TimeStamp": 1739390361871
+			},
+			{
+				"Text": "Neither a borrower nor a lender",
+				"TimeStamp": 1739390361964
+			},
+			{
+				"Text": "Neither a borrower nor a lender ",
+				"TimeStamp": 1739390362130
+			},
+			{
+				"Text": "Neither a borrower nor a lender b",
+				"TimeStamp": 1739390362655
+			},
+			{
+				"Text": "Neither a borrower nor a lender be",
+				"TimeStamp": 1739390362782
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			],
+			[
+				"insert",
+				30,
+				1
+			],
+			[
+				"insert",
+				31,
+				1
+			],
+			[
+				"insert",
+				32,
+				1
+			],
+			[
+				"insert",
+				33,
+				1
+			]
+		],
+		"Trial": 27,
+		"Present": "neither a borrower nor a lender be",
+		"IF": 0,
+		"INF": 1,
+		"C": 33,
+		"CER": "0.000",
+		"UER": "0.029",
+		"TER": "0.029",
+		"Transcribed": "Neither a borrower nor a lender be",
+		"Time": 7518
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "O",
+				"TimeStamp": 1739390364430
+			},
+			{
+				"Text": "On",
+				"TimeStamp": 1739390364583
+			},
+			{
+				"Text": "One",
+				"TimeStamp": 1739390364735
+			},
+			{
+				"Text": "One ",
+				"TimeStamp": 1739390364843
+			},
+			{
+				"Text": "One h",
+				"TimeStamp": 1739390365237
+			},
+			{
+				"Text": "One he",
+				"TimeStamp": 1739390365368
+			},
+			{
+				"Text": "One hec",
+				"TimeStamp": 1739390365639
+			},
+			{
+				"Text": "One heck",
+				"TimeStamp": 1739390365751
+			},
+			{
+				"Text": "One heck ",
+				"TimeStamp": 1739390365828
+			},
+			{
+				"Text": "One heck o",
+				"TimeStamp": 1739390366004
+			},
+			{
+				"Text": "One heck of",
+				"TimeStamp": 1739390366431
+			},
+			{
+				"Text": "One heck of ",
+				"TimeStamp": 1739390366571
+			},
+			{
+				"Text": "One heck of a",
+				"TimeStamp": 1739390366730
+			},
+			{
+				"Text": "One heck of a ",
+				"TimeStamp": 1739390366828
+			},
+			{
+				"Text": "One heck of a q",
+				"TimeStamp": 1739390367173
+			},
+			{
+				"Text": "One heck of a qu",
+				"TimeStamp": 1739390367328
+			},
+			{
+				"Text": "One heck of a que",
+				"TimeStamp": 1739390367426
+			},
+			{
+				"Text": "One heck of a ques",
+				"TimeStamp": 1739390367605
+			},
+			{
+				"Text": "One heck of a quest",
+				"TimeStamp": 1739390367822
+			},
+			{
+				"Text": "One heck of a questo",
+				"TimeStamp": 1739390367936
+			},
+			{
+				"Text": "One heck of a questoi",
+				"TimeStamp": 1739390367967
+			},
+			{
+				"Text": "One heck of a questoin",
+				"TimeStamp": 1739390368137
+			},
+			{
+				"Text": "One heck of a question",
+				"TimeStamp": 1739390368800
+			},
+			{
+				"Text": "One heck of a question ",
+				"TimeStamp": 1739390368851
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"replace",
+				19,
+				2
+			],
+			[
+				"insert",
+				22,
+				1
+			]
+		],
+		"Trial": 28,
+		"Present": "one heck of a question",
+		"IF": 2,
+		"INF": 2,
+		"C": 21,
+		"CER": "0.080",
+		"UER": "0.080",
+		"TER": "0.160",
+		"Transcribed": "One heck of a question ",
+		"Time": 4421
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "Q",
+				"TimeStamp": 1739390370577
+			},
+			{
+				"Text": "Qu",
+				"TimeStamp": 1739390370727
+			},
+			{
+				"Text": "Que",
+				"TimeStamp": 1739390370895
+			},
+			{
+				"Text": "Ques",
+				"TimeStamp": 1739390371056
+			},
+			{
+				"Text": "Quesi",
+				"TimeStamp": 1739390371271
+			},
+			{
+				"Text": "Quesio",
+				"TimeStamp": 1739390371369
+			},
+			{
+				"Text": "Quesion",
+				"TimeStamp": 1739390371558
+			},
+			{
+				"Text": "Question",
+				"TimeStamp": 1739390371693
+			},
+			{
+				"Text": "Question ",
+				"TimeStamp": 1739390371719
+			},
+			{
+				"Text": "Question t",
+				"TimeStamp": 1739390372089
+			},
+			{
+				"Text": "Question th",
+				"TimeStamp": 1739390372204
+			},
+			{
+				"Text": "Question tha",
+				"TimeStamp": 1739390372315
+			},
+			{
+				"Text": "Question that",
+				"TimeStamp": 1739390372425
+			},
+			{
+				"Text": "Question that ",
+				"TimeStamp": 1739390372503
+			},
+			{
+				"Text": "Question that m",
+				"TimeStamp": 1739390372709
+			},
+			{
+				"Text": "Question that mu",
+				"TimeStamp": 1739390372948
+			},
+			{
+				"Text": "Question that mus",
+				"TimeStamp": 1739390373072
+			},
+			{
+				"Text": "Question that must",
+				"TimeStamp": 1739390373294
+			},
+			{
+				"Text": "Question that must ",
+				"TimeStamp": 1739390373408
+			},
+			{
+				"Text": "Question that must a",
+				"TimeStamp": 1739390373840
+			},
+			{
+				"Text": "Question that must an",
+				"TimeStamp": 1739390373934
+			},
+			{
+				"Text": "Question that must ans",
+				"TimeStamp": 1739390374269
+			},
+			{
+				"Text": "Question that must answ",
+				"TimeStamp": 1739390374434
+			},
+			{
+				"Text": "Question that must answe",
+				"TimeStamp": 1739390374617
+			},
+			{
+				"Text": "Question that must answer",
+				"TimeStamp": 1739390374792
+			},
+			{
+				"Text": "Question that must answerw",
+				"TimeStamp": 1739390375260
+			},
+			{
+				"Text": "Question that must answerwd",
+				"TimeStamp": 1739390375709
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			]
+		],
+		"Trial": 29,
+		"Present": "question that must be answered",
+		"IF": 0,
+		"INF": 5,
+		"C": 25,
+		"CER": "0.000",
+		"UER": "0.167",
+		"TER": "0.167",
+		"Transcribed": "Question that must answerwd",
+		"Time": 5132
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "B",
+				"TimeStamp": 1739390377964
+			},
+			{
+				"Text": "Be",
+				"TimeStamp": 1739390378157
+			},
+			{
+				"Text": "Bew",
+				"TimeStamp": 1739390378657
+			},
+			{
+				"Text": "Bewa",
+				"TimeStamp": 1739390378827
+			},
+			{
+				"Text": "Bewar",
+				"TimeStamp": 1739390379081
+			},
+			{
+				"Text": "Beware",
+				"TimeStamp": 1739390379167
+			},
+			{
+				"Text": "Beware ",
+				"TimeStamp": 1739390379319
+			},
+			{
+				"Text": "Beware t",
+				"TimeStamp": 1739390379845
+			},
+			{
+				"Text": "Beware th",
+				"TimeStamp": 1739390379959
+			},
+			{
+				"Text": "Beware the",
+				"TimeStamp": 1739390380068
+			},
+			{
+				"Text": "Beware the ",
+				"TimeStamp": 1739390380203
+			},
+			{
+				"Text": "Beware the i",
+				"TimeStamp": 1739390380968
+			},
+			{
+				"Text": "Beware the id",
+				"TimeStamp": 1739390381116
+			},
+			{
+				"Text": "Beware the ide",
+				"TimeStamp": 1739390381195
+			},
+			{
+				"Text": "Beware the ides",
+				"TimeStamp": 1739390381384
+			},
+			{
+				"Text": "Beware the ides ",
+				"TimeStamp": 1739390381548
+			},
+			{
+				"Text": "Beware the ides o",
+				"TimeStamp": 1739390381693
+			},
+			{
+				"Text": "Beware the ides of",
+				"TimeStamp": 1739390381851
+			},
+			{
+				"Text": "Beware the ides of ",
+				"TimeStamp": 1739390381958
+			},
+			{
+				"Text": "Beware the ides of m",
+				"TimeStamp": 1739390382145
+			},
+			{
+				"Text": "Beware the ides of ma",
+				"TimeStamp": 1739390382352
+			},
+			{
+				"Text": "Beware the ides of mat",
+				"TimeStamp": 1739390382625
+			},
+			{
+				"Text": "Beware the ides of ma",
+				"TimeStamp": 1739390385766
+			},
+			{
+				"Text": "Beware the ides of mar",
+				"TimeStamp": 1739390386257
+			},
+			{
+				"Text": "Beware the ides of marc",
+				"TimeStamp": 1739390386507
+			},
+			{
+				"Text": "Beware the ides of march",
+				"TimeStamp": 1739390386585
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"delete",
+				21,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			]
+		],
+		"Trial": 30,
+		"Present": "beware the ides of March",
+		"IF": 1,
+		"INF": 2,
+		"C": 22,
+		"CER": "0.040",
+		"UER": "0.080",
+		"TER": "0.120",
+		"Transcribed": "Beware the ides of march",
+		"Time": 8621
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "D",
+				"TimeStamp": 1739390400358
+			},
+			{
+				"Text": "Do",
+				"TimeStamp": 1739390400491
+			},
+			{
+				"Text": "Dou",
+				"TimeStamp": 1739390400599
+			},
+			{
+				"Text": "Doub",
+				"TimeStamp": 1739390400850
+			},
+			{
+				"Text": "Doubl",
+				"TimeStamp": 1739390401020
+			},
+			{
+				"Text": "Double",
+				"TimeStamp": 1739390401159
+			},
+			{
+				"Text": "Double ",
+				"TimeStamp": 1739390401280
+			},
+			{
+				"Text": "Double d",
+				"TimeStamp": 1739390402044
+			},
+			{
+				"Text": "Double do",
+				"TimeStamp": 1739390402262
+			},
+			{
+				"Text": "Double dou",
+				"TimeStamp": 1739390402304
+			},
+			{
+				"Text": "Double douu",
+				"TimeStamp": 1739390402450
+			},
+			{
+				"Text": "Double douub",
+				"TimeStamp": 1739390402485
+			},
+			{
+				"Text": "Double douubl",
+				"TimeStamp": 1739390402846
+			},
+			{
+				"Text": "Double douuble",
+				"TimeStamp": 1739390402972
+			},
+			{
+				"Text": "Double double",
+				"TimeStamp": 1739390403056
+			},
+			{
+				"Text": "Double double ",
+				"TimeStamp": 1739390403081
+			},
+			{
+				"Text": "Double double t",
+				"TimeStamp": 1739390403673
+			},
+			{
+				"Text": "Double double to",
+				"TimeStamp": 1739390403806
+			},
+			{
+				"Text": "Double double toi",
+				"TimeStamp": 1739390403884
+			},
+			{
+				"Text": "Double double toil",
+				"TimeStamp": 1739390404062
+			},
+			{
+				"Text": "Double double toil ",
+				"TimeStamp": 1739390404216
+			},
+			{
+				"Text": "Double double toil a",
+				"TimeStamp": 1739390404405
+			},
+			{
+				"Text": "Double double toil an",
+				"TimeStamp": 1739390404509
+			},
+			{
+				"Text": "Double double toil and",
+				"TimeStamp": 1739390404651
+			},
+			{
+				"Text": "Double double toil and ",
+				"TimeStamp": 1739390404730
+			},
+			{
+				"Text": "Double double toil and t",
+				"TimeStamp": 1739390404877
+			},
+			{
+				"Text": "Double double toil and tr",
+				"TimeStamp": 1739390405037
+			},
+			{
+				"Text": "Double double toil and tro",
+				"TimeStamp": 1739390405112
+			},
+			{
+				"Text": "Double double toil and trou",
+				"TimeStamp": 1739390405174
+			},
+			{
+				"Text": "Double double toil and troub",
+				"TimeStamp": 1739390405444
+			},
+			{
+				"Text": "Double double toil and troubl",
+				"TimeStamp": 1739390405586
+			},
+			{
+				"Text": "Double double toil and trouble",
+				"TimeStamp": 1739390405693
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"delete",
+				9,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			],
+			[
+				"insert",
+				20,
+				1
+			],
+			[
+				"insert",
+				21,
+				1
+			],
+			[
+				"insert",
+				22,
+				1
+			],
+			[
+				"insert",
+				23,
+				1
+			],
+			[
+				"insert",
+				24,
+				1
+			],
+			[
+				"insert",
+				25,
+				1
+			],
+			[
+				"insert",
+				26,
+				1
+			],
+			[
+				"insert",
+				27,
+				1
+			],
+			[
+				"insert",
+				28,
+				1
+			],
+			[
+				"insert",
+				29,
+				1
+			]
+		],
+		"Trial": 31,
+		"Present": "double double toil and trouble",
+		"IF": 1,
+		"INF": 1,
+		"C": 29,
+		"CER": "0.032",
+		"UER": "0.032",
+		"TER": "0.065",
+		"Transcribed": "Double double toil and trouble",
+		"Time": 5335
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "O",
+				"TimeStamp": 1739390408337
+			},
+			{
+				"Text": "",
+				"TimeStamp": 1739390409109
+			},
+			{
+				"Text": "T",
+				"TimeStamp": 1739390409452
+			},
+			{
+				"Text": "Th",
+				"TimeStamp": 1739390409583
+			},
+			{
+				"Text": "The",
+				"TimeStamp": 1739390409703
+			},
+			{
+				"Text": "The ",
+				"TimeStamp": 1739390409886
+			},
+			{
+				"Text": "The p",
+				"TimeStamp": 1739390409986
+			},
+			{
+				"Text": "The po",
+				"TimeStamp": 1739390410172
+			},
+			{
+				"Text": "The pow",
+				"TimeStamp": 1739390410425
+			},
+			{
+				"Text": "The powe",
+				"TimeStamp": 1739390410606
+			},
+			{
+				"Text": "The power",
+				"TimeStamp": 1739390410789
+			},
+			{
+				"Text": "The power ",
+				"TimeStamp": 1739390410976
+			},
+			{
+				"Text": "The power o",
+				"TimeStamp": 1739390411122
+			},
+			{
+				"Text": "The power od",
+				"TimeStamp": 1739390411347
+			},
+			{
+				"Text": "The power o",
+				"TimeStamp": 1739390412076
+			},
+			{
+				"Text": "The power of",
+				"TimeStamp": 1739390412268
+			},
+			{
+				"Text": "The power of ",
+				"TimeStamp": 1739390412396
+			},
+			{
+				"Text": "The power of d",
+				"TimeStamp": 1739390412633
+			},
+			{
+				"Text": "The power of de",
+				"TimeStamp": 1739390412832
+			},
+			{
+				"Text": "The power of den",
+				"TimeStamp": 1739390412937
+			},
+			{
+				"Text": "The power of deni",
+				"TimeStamp": 1739390413132
+			},
+			{
+				"Text": "The power of denia",
+				"TimeStamp": 1739390413639
+			},
+			{
+				"Text": "The power of denial",
+				"TimeStamp": 1739390413757
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"delete",
+				0,
+				1
+			],
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"delete",
+				11,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				18,
+				1
+			]
+		],
+		"Trial": 32,
+		"Present": "the power of denial",
+		"IF": 2,
+		"INF": 1,
+		"C": 18,
+		"CER": "0.095",
+		"UER": "0.048",
+		"TER": "0.143",
+		"Transcribed": "The power of denial",
+		"Time": 5420
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "I",
+				"TimeStamp": 1739390415673
+			},
+			{
+				"Text": "I ",
+				"TimeStamp": 1739390415808
+			},
+			{
+				"Text": "I a",
+				"TimeStamp": 1739390415940
+			},
+			{
+				"Text": "I ag",
+				"TimeStamp": 1739390416140
+			},
+			{
+				"Text": "I agr",
+				"TimeStamp": 1739390416297
+			},
+			{
+				"Text": "I agre",
+				"TimeStamp": 1739390416484
+			},
+			{
+				"Text": "I agree",
+				"TimeStamp": 1739390416631
+			},
+			{
+				"Text": "I agree ",
+				"TimeStamp": 1739390416809
+			},
+			{
+				"Text": "I agree w",
+				"TimeStamp": 1739390417090
+			},
+			{
+				"Text": "I agree wi",
+				"TimeStamp": 1739390417212
+			},
+			{
+				"Text": "I agree wit",
+				"TimeStamp": 1739390417315
+			},
+			{
+				"Text": "I agree with",
+				"TimeStamp": 1739390417412
+			},
+			{
+				"Text": "I agree with ",
+				"TimeStamp": 1739390417548
+			},
+			{
+				"Text": "I agree with y",
+				"TimeStamp": 1739390417787
+			},
+			{
+				"Text": "I agree with yo",
+				"TimeStamp": 1739390417954
+			},
+			{
+				"Text": "I agree with you",
+				"TimeStamp": 1739390418039
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			]
+		],
+		"Trial": 33,
+		"Present": "I agree with you",
+		"IF": 0,
+		"INF": 0,
+		"C": 16,
+		"CER": "0.000",
+		"UER": "0.000",
+		"TER": "0.000",
+		"Transcribed": "I agree with you",
+		"Time": 2366
+	},
+	{
+		"Transcribe": [
+			{
+				"Text": "D",
+				"TimeStamp": 1739390420189
+			},
+			{
+				"Text": "Do",
+				"TimeStamp": 1739390420342
+			},
+			{
+				"Text": "Do ",
+				"TimeStamp": 1739390420428
+			},
+			{
+				"Text": "Do n",
+				"TimeStamp": 1739390420624
+			},
+			{
+				"Text": "Do no",
+				"TimeStamp": 1739390420794
+			},
+			{
+				"Text": "Do not",
+				"TimeStamp": 1739390420936
+			},
+			{
+				"Text": "Do not ",
+				"TimeStamp": 1739390421043
+			},
+			{
+				"Text": "Do not s",
+				"TimeStamp": 1739390421497
+			},
+			{
+				"Text": "Do not sa",
+				"TimeStamp": 1739390421686
+			},
+			{
+				"Text": "Do not say",
+				"TimeStamp": 1739390421792
+			},
+			{
+				"Text": "Do not say ",
+				"TimeStamp": 1739390421894
+			},
+			{
+				"Text": "Do not say a",
+				"TimeStamp": 1739390422078
+			},
+			{
+				"Text": "Do not say an",
+				"TimeStamp": 1739390422183
+			},
+			{
+				"Text": "Do not say ant",
+				"TimeStamp": 1739390422438
+			},
+			{
+				"Text": "Do not say anth",
+				"TimeStamp": 1739390422594
+			},
+			{
+				"Text": "Do not say anthi",
+				"TimeStamp": 1739390423052
+			},
+			{
+				"Text": "Do not say anthin",
+				"TimeStamp": 1739390423169
+			},
+			{
+				"Text": "Do not say anthing",
+				"TimeStamp": 1739390423234
+			},
+			{
+				"Text": "Do not say anything",
+				"TimeStamp": 1739390423345
+			},
+			{
+				"Text": "Do not say anything ",
+				"TimeStamp": 1739390423370
+			}
+		],
+		"Action": [
+			[
+				"insert",
+				0,
+				1
+			],
+			[
+				"insert",
+				1,
+				1
+			],
+			[
+				"insert",
+				2,
+				1
+			],
+			[
+				"insert",
+				3,
+				1
+			],
+			[
+				"insert",
+				4,
+				1
+			],
+			[
+				"insert",
+				5,
+				1
+			],
+			[
+				"insert",
+				6,
+				1
+			],
+			[
+				"insert",
+				7,
+				1
+			],
+			[
+				"insert",
+				8,
+				1
+			],
+			[
+				"insert",
+				9,
+				1
+			],
+			[
+				"insert",
+				10,
+				1
+			],
+			[
+				"insert",
+				11,
+				1
+			],
+			[
+				"insert",
+				12,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				14,
+				1
+			],
+			[
+				"insert",
+				15,
+				1
+			],
+			[
+				"insert",
+				16,
+				1
+			],
+			[
+				"insert",
+				17,
+				1
+			],
+			[
+				"insert",
+				13,
+				1
+			],
+			[
+				"insert",
+				19,
+				1
+			]
+		],
+		"Trial": 34,
+		"Present": "do not say anything",
+		"IF": 0,
+		"INF": 2,
+		"C": 18,
+		"CER": "0.000",
+		"UER": "0.100",
+		"TER": "0.100",
+		"Transcribed": "Do not say anything ",
+		"Time": 3181
+	}
+]
